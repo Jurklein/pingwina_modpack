@@ -1,0 +1,49 @@
+{
+	// Torches will extinguish if broken. default true
+	"torchesExtinguishWhenBroken": true,
+	// Torches are fully expended when broken. Overrides torchesExtinguishWhenBroken. default true
+	"torchesBurnWhenDropped": true,
+	// Torches become unlit in rain. If torchesSmolder is true, they will instead smolder in rain. default true
+	"torchesRain": true,
+	// Only matters if torchesRain is true. In rain, torches will extinguish but emit smoke, and consume fuel at 1/3 the rate until fully extinguished or re-lit. default true
+	"torchesSmolder": true,
+	// Burnt torches drop as vanilla stick when broken instead of a burnt torch. default true
+	"burntStick": true,
+	// The amount of ticks the torch lasts. Default is 48000. 20 ticks per second, 48000 = 20 minutes
+	"defaultTorchFuel": 48000,
+	// Are torches crafted unlit. default false
+	"craftUnlit": false,
+	// Items which can be used to light a torch for free
+	"freeLightItems": [
+		"minecraft:torch",
+		"minecraft:lava_bucket",
+		"hardcore_torches:lit_torch"
+	],
+	// Items which can be used to light a torch but take a durability point
+	"damageLightItems": [
+		"minecraft:flint_and_steel"
+	],
+	// Items which consume one to light a torch
+	"consumeLightItems": [
+		"minecraft:fire_charge"
+	],
+	// Items that can extinguish a torch for free. the fuel is not expended
+	"freeExtinguishItems": [
+		"minecraft:water_bucket"
+	],
+	// Blocks that can be right clicked with a torch to light the torch
+	"worldLightBlocks": [
+		"minecraft:torch",
+		"minecraft:soul_torch",
+		"minecraft:fire",
+		"minecraft:soul_fire",
+		"minecraft:lantern",
+		"minecraft:soul_lantern",
+		"minecraft:jack_o_lantern",
+		"minecraft:campfire",
+		"minecraft:soul_campfire",
+		"minecraft:magma_block",
+		"hardcore_torches:lit_torch",
+		"hardcore_torches:smoldering_torch"
+	]
+}

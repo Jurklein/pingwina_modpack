@@ -1,0 +1,7 @@
+{
+  "trickxortreatoptions": {
+    "level1TrickEffectChance": 5,
+    "level1TreatEffectChance": 5,
+    "trickOrTreatCompat": true
+  }
+}

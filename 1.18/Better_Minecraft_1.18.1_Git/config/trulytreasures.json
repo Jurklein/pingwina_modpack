@@ -1,0 +1,15 @@
+{
+  "wanderingTraderSettings": {
+    "basePrice": 16,
+    "maxTrades": 2,
+    "sellCurses": false,
+    "wandererEnchantmentExceptions": [
+      ""
+    ]
+  },
+  "villagerSettings": {
+    "villagerEnchantmentExceptions": [
+      ""
+    ]
+  }
+}

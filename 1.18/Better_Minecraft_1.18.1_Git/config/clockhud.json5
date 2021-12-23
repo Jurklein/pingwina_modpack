@@ -1,0 +1,9 @@
+{
+	"clockEnabled": true,
+	"iconEnabled": true,
+	"iconPosition": "RIGHT",
+	"position": "BOTTOM_RIGHT",
+	"colour": 16777215,
+	"xOffset": -2,
+	"yOffset": -1
+}

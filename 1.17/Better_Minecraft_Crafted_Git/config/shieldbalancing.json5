@@ -1,0 +1,4 @@
+{
+	// 20 ticks = 1 second
+	"shield_disabled_ticks": 60
+}

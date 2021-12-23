@@ -1,0 +1,4 @@
+{
+	// The chance a zombie that has spawned is of the husk variant.
+	"chanceZombieIsHusk": 0
+}

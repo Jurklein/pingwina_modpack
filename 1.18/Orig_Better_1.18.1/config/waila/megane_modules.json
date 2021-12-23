@@ -1,0 +1,13 @@
+{
+  "modules": {
+    "megane-kibe": {
+      "badasintended.megane.impl.Kibe": true
+    },
+    "megane-fabric-transfer": {
+      "badasintended.megane.impl.FabricTransfer": true
+    },
+    "megane-vanilla": {
+      "badasintended.megane.impl.Minecraft": true
+    }
+  }
+}

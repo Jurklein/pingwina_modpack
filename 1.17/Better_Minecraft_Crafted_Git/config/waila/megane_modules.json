@@ -1,0 +1,17 @@
+{
+  "modules": {
+    "megane-team-reborn-energy": {
+      "badasintended.megane.impl.TeamRebornEnergy": true,
+      "badasintended.megane.impl.LegacyTeamRebornEnergy": true
+    },
+    "megane-fabric-transfer": {
+      "badasintended.megane.impl.FabricTransfer": true
+    },
+    "megane-lib-block-attributes": {
+      "badasintended.megane.impl.LibBlockAttributesFluids": true
+    },
+    "megane-vanilla": {
+      "badasintended.megane.impl.Minecraft": true
+    }
+  }
+}

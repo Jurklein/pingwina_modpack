@@ -1,0 +1,141 @@
+{
+  "force_include": {
+    "end_land_biomes": [],
+    "end_void_biomes": [],
+    "nether_biomes": []
+  },
+  "minecraft": {
+    "nether_wastes": {
+      "generation_chance [default: 1.0]": 1.0,
+      "fog_density [default: 1.0]": 1.0
+    },
+    "crimson_forest": {
+      "generation_chance [default: 1.0]": 1.0,
+      "fog_density [default: 1.0]": 1.0
+    },
+    "warped_forest": {
+      "generation_chance [default: 1.0]": 1.0,
+      "fog_density [default: 1.0]": 1.0
+    },
+    "soul_sand_valley": {
+      "generation_chance [default: 1.0]": 1.0,
+      "fog_density [default: 1.0]": 1.0
+    },
+    "basalt_deltas": {
+      "generation_chance [default: 1.0]": 1.0,
+      "fog_density [default: 1.0]": 1.0
+    },
+    "the_end": {
+      "generation_chance [default: 1.0]": 1.0,
+      "fog_density [default: 1.0]": 1.0
+    },
+    "end_barrens": {
+      "generation_chance [default: 1.0]": 1.0,
+      "fog_density [default: 1.0]": 1.0
+    },
+    "small_end_islands": {
+      "generation_chance [default: 1.0]": 1.0,
+      "fog_density [default: 1.0]": 1.0
+    },
+    "end_highlands": {
+      "generation_chance [default: 0.5]": 0.5,
+      "fog_density [default: 1.0]": 1.0
+    },
+    "end_midlands": {
+      "generation_chance [default: 0.5]": 0.5,
+      "fog_density [default: 1.0]": 1.0
+    }
+  },
+  "betternether": {
+    "gravel_desert": {
+      "generation_chance [default: 1.0]": 1.0,
+      "fog_density [default: 1.0]": 1.0
+    },
+    "nether_jungle": {
+      "generation_chance [default: 1.0]": 1.0,
+      "fog_density [default: 1.0]": 1.0
+    },
+    "wart_forest": {
+      "generation_chance [default: 1.0]": 1.0,
+      "fog_density [default: 1.0]": 1.0,
+      "edge_size [default: 9]": 9
+    },
+    "nether_grasslands": {
+      "generation_chance [default: 1.0]": 1.0,
+      "fog_density [default: 1.0]": 1.0
+    },
+    "nether_mushroom_forest": {
+      "generation_chance [default: 1.0]": 1.0,
+      "fog_density [default: 1.0]": 1.0,
+      "edge_size [default: 6]": 6
+    },
+    "nether_mushroom_forest_edge": {
+      "generation_chance [default: 1.0]": 1.0,
+      "fog_density [default: 1.0]": 1.0
+    },
+    "wart_forest_edge": {
+      "generation_chance [default: 1.0]": 1.0,
+      "fog_density [default: 1.0]": 1.0
+    },
+    "bone_reef": {
+      "generation_chance [default: 1.0]": 1.0,
+      "fog_density [default: 1.0]": 1.0
+    },
+    "sulfuric_bone_reef": {
+      "generation_chance [default: 0.3]": 0.3,
+      "fog_density [default: 1.0]": 1.0
+    },
+    "poor_nether_grasslands": {
+      "generation_chance [default: 0.3]": 0.3,
+      "fog_density [default: 1.0]": 1.0
+    },
+    "nether_swampland": {
+      "generation_chance [default: 1.0]": 1.0,
+      "fog_density [default: 1.0]": 1.0
+    },
+    "nether_swampland_terraces": {
+      "generation_chance [default: 1.0]": 1.0,
+      "fog_density [default: 1.0]": 1.0
+    },
+    "magma_land": {
+      "generation_chance [default: 1.0]": 1.0,
+      "fog_density [default: 1.0]": 1.0
+    },
+    "soul_plain": {
+      "generation_chance [default: 1.0]": 1.0,
+      "fog_density [default: 1.0]": 1.0
+    },
+    "crimson_glowing_woods": {
+      "generation_chance [default: 0.3]": 0.3,
+      "fog_density [default: 1.0]": 1.0
+    },
+    "old_warped_woods": {
+      "generation_chance [default: 1.0]": 1.0,
+      "fog_density [default: 1.0]": 1.0
+    },
+    "crimson_pinewood": {
+      "generation_chance [default: 0.3]": 0.3,
+      "fog_density [default: 1.0]": 1.0
+    },
+    "old_fungiwoods": {
+      "generation_chance [default: 0.3]": 0.3,
+      "fog_density [default: 1.0]": 1.0
+    },
+    "flooded_deltas": {
+      "generation_chance [default: 1.0]": 1.0,
+      "fog_density [default: 1.0]": 1.0
+    },
+    "upside_down_forest": {
+      "generation_chance [default: 1.0]": 1.0,
+      "fog_density [default: 1.0]": 1.0
+    },
+    "upside_down_forest_cleared": {
+      "generation_chance [default: 1.0]": 1.0,
+      "fog_density [default: 1.0]": 1.0
+    },
+    "old_swampland": {
+      "generation_chance [default: 1.0]": 1.0,
+      "fog_density [default: 1.0]": 1.0
+    }
+  }
+}
