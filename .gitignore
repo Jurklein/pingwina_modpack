@@ -4,3 +4,6 @@
 **/shaderpacks/
 *.dat
 **/saves/
+**/natives/
+**/resourcepacks/
+*.zip
