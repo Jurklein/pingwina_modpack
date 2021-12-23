@@ -9,6 +9,15 @@
 **/resourcepacks/
 *.zip
 **/lang/**/*.json
+**/locals/**/*.local
 **/crash-reports/
 **/logs/
 *.gz
+**/dashloader/**/*.serializer
+**/dashloader/**/*.activej
+**/XaeroWaypoints/**/config.txt
+**/XaeroWaypoints/**/waypoints.txt
+**/XaeroWorldMap/**/server_config.txt
+**/XaeroWorldMap/**/dimension_config.txt
+**/XaeroWorldMap/**/.lock
+**/XaeroWorldMap/**/.xwmc
