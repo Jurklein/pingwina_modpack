@@ -2,8 +2,13 @@
 *.png
 **/backup/
 **/shaderpacks/
+**/patched_shaders/
 *.dat
 **/saves/
 **/natives/
 **/resourcepacks/
 *.zip
+**/lang/**/*.json
+**/crash-reports/
+**/logs/
+*.gz
