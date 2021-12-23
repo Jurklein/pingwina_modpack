@@ -1,3 +1,6 @@
 **/.fabric/processedMods/*.jar
 *.png
 **/backup/
+**/shaderpacks/
+*.dat
+**/saves/
