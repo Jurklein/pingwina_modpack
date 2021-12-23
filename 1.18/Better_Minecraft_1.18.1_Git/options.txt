@@ -1,5 +1,4 @@
 version:2865
-previousLang:
 autoJump:true
 autoSuggestions:true
 chatColors:true
@@ -37,7 +36,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","Fabric Mods","visualoverhaul/fancyfurnace","visualoverhaul/coloredwaterbucket","fabric-copper-golem/copper_golem","visualoverhaul/nobrewingbottles","loadmyresources.hiddenpack","file/French_Fonts_8__1.17.1-1.18","file/MedievalMusic","file/MedievalMusic2","file/STONEBORN+-+1.18+-+V3.0","file/EmbellishedStone-1.17.1","file/1.18+STONEBORN+-+Appleskin+Compat","file/Better+chickens+V1.1+-+Mrblueyeti","file/Better-Leaves-6.1-1.13+","file/Better_Dogs_V1.15","file/Broken_Tools_V2_1.18","file/STONEBORN+Gear-LOW_EYES-1.18+-+V2.0"]
+resourcePacks:["vanilla","Fabric Mods","fabric-copper-golem/copper_golem","loadmyresources.hiddenpack","file/French_Fonts_8__1.17.1-1.18","file/MedievalMusic","file/MedievalMusic2","file/STONEBORN+-+1.18+-+V3.0","file/EmbellishedStone-1.17.1","file/1.18+STONEBORN+-+Appleskin+Compat","file/Better+chickens+V1.1+-+Mrblueyeti","file/Better-Leaves-6.1-1.13+","file/Better_Dogs_V1.15","file/Broken_Tools_V2_1.18","file/STONEBORN+Gear-LOW_EYES-1.18+-+V2.0"]
 incompatibleResourcePacks:["file/French_Fonts_8__1.17.1-1.18","file/EmbellishedStone-1.17.1","file/Better+chickens+V1.1+-+Mrblueyeti","file/Better_Dogs_V1.15","file/STONEBORN+Gear-LOW_EYES-1.18+-+V2.0"]
 lastServer:
 lang:en_us
@@ -63,7 +62,7 @@ useNativeTransport:true
 mainHand:right
 attackIndicator:1
 narrator:0
-tutorialStep:movement
+tutorialStep:punch_tree
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
@@ -119,8 +118,6 @@ key_Toggle Drippy Customization Overlay | CTRL + ALT + :key.keyboard.l
 key_Reload Menu | CTRL + ALT + :key.keyboard.r
 key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c
 key_key.firstperson.toggle:key.keyboard.f6
-key_key.namepain.showculled:key.keyboard.unknown
-key_key.signtools.copysign:key.keyboard.keypad.add
 key_key.advancedcompass.openconfig:key.keyboard.p
 key_key.advancedcompass.newwaypoint:key.keyboard.n
 key_key.advancedcompass.openwaypointlist:key.keyboard.l
@@ -133,8 +130,6 @@ key_key.areyoublind.toggleonoff:key.keyboard.g
 key_key.areyoublind.attl:key.keyboard.keypad.add
 key_key.areyoublind.rftl:key.keyboard.keypad.subtract
 key_key.areyoublind.openconfig:key.keyboard.k
-key_key.bewitchment.transformation_ability:key.keyboard.r
-key_key.botania_corporea_request:key.keyboard.c
 key_key.chestcavity.utility_abilities:key.keyboard.v
 key_key.chestcavity.attack_abilities:key.keyboard.r
 key_key.chestcavity.creepy:key.keyboard.keypad.decimal
@@ -167,67 +162,10 @@ key_key.craftingtweaks.refill_last_stack:key.keyboard.tab
 key_key.crawl:key.keyboard.c
 key_key.dml-refabricated.teleport:key.keyboard.v
 key_key.dml-refabricated.soul_vision:key.keyboard.b
-key_key.doom.reload:key.keyboard.r
 key_key.entityculling.toggle:key.keyboard.unknown
 key_Show comparison tooltip:key.keyboard.left.shift
-key_key.exaltation.primary_active:key.keyboard.v
-key_key.exaltation.secondary_active:key.keyboard.b
 key_fpsreducer.key.openGui:key.keyboard.end
 key_fpsreducer.key.forceIdle:key.keyboard.pause
-key_key.prone:key.keyboard.c
-key_key.prone.toggle:key.keyboard.unknown
-key_key.gravelminer.toggle:key.keyboard.unknown
-key_Clear Follower List:key.keyboard.backslash
-key_key.indrev.modular:key.keyboard.unknown
-key_key.inventory_control_tweaks.drag_out_of_inventory_modifier:key.keyboard.left.control
-key_key.inventory_control_tweaks.click_armor_swap_modifier:key.keyboard.right.shift
-key_key.inventory_control_tweaks.drag_all_stacks_across_modifier:key.keyboard.left.alt
-key_iris.keybind.reload:key.keyboard.r
-key_iris.keybind.toggleShaders:key.keyboard.k
-key_iris.keybind.shaderPackSelection:key.keyboard.o
-key_key.levelz.openskillscreen:key.keyboard.k
-key_key.lightoverlay.enable_overlay:key.keyboard.f7
-key_key.map_atlases.open_minimap:key.keyboard.m
-key_key.nameplate.shownameplate:key.keyboard.keypad.add
-key_nimble.keybind.frontView:key.keyboard.f4
-key_key.origins.primary_active:key.keyboard.g
-key_key.origins.secondary_active:key.keyboard.unknown
-key_key.origins.view_origin:key.keyboard.o
-key_key.projectsavethepets.allowdamage:key.keyboard.left.shift
-key_key.requiem.dissociation:key.keyboard.comma
-key_key.small_artifacts.ender_sack:key.keyboard.x
-key_key.things.place_item:key.keyboard.j
-key_key.things.openenderchest:key.keyboard.g
-key_key.veinmining.activate.desc:key.keyboard.unknown
-key_key.villagerquests.openquestscreen:key.keyboard.i
-key_key.waig.toggle:key.keyboard.f6
-key_key.waila.config:key.keyboard.keypad.0
-key_key.waila.show_overlay:key.keyboard.keypad.1
-key_key.waila.toggle_liquid:key.keyboard.keypad.2
-key_key.waila.show_recipe_input:key.keyboard.keypad.3
-key_key.waila.show_recipe_output:key.keyboard.keypad.4
-key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
-key_gui.xaero_instant_waypoint:key.keyboard.keypad.add
-key_gui.xaero_toggle_slime:key.keyboard.unknown
-key_gui.xaero_toggle_grid:key.keyboard.unknown
-key_gui.xaero_toggle_waypoints:key.keyboard.unknown
-key_gui.xaero_toggle_map_waypoints:key.keyboard.unknown
-key_gui.xaero_toggle_map:key.keyboard.unknown
-key_gui.xaero_enlarge_map:key.keyboard.z
-key_gui.xaero_waypoints_key:key.keyboard.u
-key_gui.xaero_zoom_in:key.keyboard.unknown
-key_gui.xaero_zoom_out:key.keyboard.unknown
-key_gui.xaero_new_waypoint:key.keyboard.b
-key_gui.xaero_display_all_sets:key.keyboard.unknown
-key_gui.xaero_toggle_light_overlay:key.keyboard.unknown
-key_gui.xaero_toggle_entity_radar:key.keyboard.unknown
-key_gui.xaero_reverse_entity_radar:key.keyboard.unknown
-key_gui.xaero_minimap_settings:key.keyboard.y
-key_gui.xaero_open_map:key.keyboard.m
-key_gui.xaero_open_settings:key.keyboard.right.bracket
-key_gui.xaero_map_zoom_in:key.keyboard.unknown
-key_gui.xaero_map_zoom_out:key.keyboard.unknown
-key_gui.xaero_quick_confirm:key.keyboard.right.shift
 key_key.zoomglass.spyglass:key.keyboard.c
 soundCategory_master:1.0
 soundCategory_music:1.0
