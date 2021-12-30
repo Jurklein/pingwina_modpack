@@ -1,6 +1,6 @@
 {
-	"drop_unlooted": false,
-	"hopper_extracting": false,
+	"drop_unlooted": true,
+	"hopper_extracting": true,
 	// Default: 2400ticks = 2min
 	"drop_after_ticks": 2400,
 	"despawn_corps_after_ticks": 4800,
