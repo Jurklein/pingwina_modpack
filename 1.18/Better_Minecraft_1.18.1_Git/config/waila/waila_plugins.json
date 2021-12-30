@@ -1,8 +1,4 @@
 {
-  "levelz": {
-    "mineable_info": true,
-    "mineable_level_info": false
-  },
   "waila": {
     "show_blocks": true,
     "show_fluids": false,
@@ -35,8 +31,5 @@
     "note_block.note": "SHARP",
     "note_block.int_value": false,
     "pet.hide_unknown_owner": false
-  },
-  "nameplate": {
-    "mob_level_info": true
   }
 }
