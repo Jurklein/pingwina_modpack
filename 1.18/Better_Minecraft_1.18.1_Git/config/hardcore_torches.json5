@@ -8,9 +8,9 @@
 	// Only matters if torchesRain is true. In rain, torches will extinguish but emit smoke, and consume fuel at 1/3 the rate until fully extinguished or re-lit. default true
 	"torchesSmolder": true,
 	// Burnt torches drop as vanilla stick when broken instead of a burnt torch. default true
-	"burntStick": true,
+	"burntStick": false,
 	// The amount of ticks the torch lasts. Default is 48000. 20 ticks per second, 48000 = 20 minutes
-	"defaultTorchFuel": 48000,
+	"defaultTorchFuel": 1200,
 	// The amount of ticks the lantern can last. Default is 144000. 20 ticks per second, 144000 = 60 minutes
 	"defaultLanternFuel": 144000,
 	// The amount a fuel item adds to the lantern by default. default 72000
@@ -26,5 +26,5 @@
 	// How many torches are crafted. default 4
 	"craftAmount": 4,
 	// Right click torch or lantern to see fuel value. default false
-	"fuelMessage": false
+	"fuelMessage": true
 }

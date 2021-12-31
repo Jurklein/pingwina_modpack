@@ -1440,11 +1440,6 @@
     "cloak": "cosmic"
   },
   {
-    "name": "tomtrashh",
-    "uuid": "18ea2138-ccf5-4d26-bb4e-c562256d4b25",
-    "cloak": "uni"
-  },
-  {
     "name": "VendixDilan",
     "uuid": "2bb1c666-676f-4154-a185-1d0b1f490a22",
     "cloak": "pumpkin"
@@ -1583,5 +1578,10 @@
     "name": "IncubusWoods",
     "uuid": "5802afad-e986-46da-ae84-4032125d799a",
     "cloak": "golden"
+  },
+  {
+    "name": "tomtrashh",
+    "uuid": "18ea2138-ccf5-4d26-bb4e-c562256d4b25",
+    "cloak": "jeb"
   }
 ]
