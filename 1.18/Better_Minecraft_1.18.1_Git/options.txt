@@ -13,7 +13,7 @@ realmsNotifications:true
 reducedDebugInfo:false
 showSubtitles:false
 touchscreen:false
-fullscreen:true
+fullscreen:false
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -166,6 +166,7 @@ key_key.entityculling.toggle:key.keyboard.unknown
 key_Show comparison tooltip:key.keyboard.left.shift
 key_fpsreducer.key.openGui:key.keyboard.end
 key_fpsreducer.key.forceIdle:key.keyboard.pause
+key_key.guild.quest_screen:key.keyboard.j
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o

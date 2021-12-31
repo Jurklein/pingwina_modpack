@@ -364,6 +364,12 @@ mode = "fancy"
 				painting = true
 				wither = true
 
+			[light_sources.settings.entities.endgoblintraders]
+				end_goblin_trader = true
+
+			[light_sources.settings.entities.ratsmischief]
+				rat = true
+
 			[light_sources.settings.entities.additionaladditions]
 				glow_stick = true
 
@@ -390,6 +396,10 @@ mode = "fancy"
 
 			[light_sources.settings.entities.capybara]
 				capybara = true
+
+			[light_sources.settings.entities.goblintraders]
+				vein_goblin_trader = true
+				goblin_trader = true
 
 			[light_sources.settings.entities.betternether]
 				naga_projectile = true
@@ -463,6 +473,9 @@ mode = "fancy"
 			[light_sources.settings.entities.companion_bats]
 				dynamite = true
 				bat = true
+
+			[light_sources.settings.entities.vanilla_degus]
+				degu = true
 
 			[light_sources.settings.entities.betteranimalsplus]
 				deer = true
@@ -564,6 +577,18 @@ mode = "fancy"
 			[light_sources.settings.entities.eeriehauntings]
 				soulballprojectile = true
 
+			[light_sources.settings.entities.mythicmounts]
+				netherbat = true
+				ridinglizard = true
+				courierbird = true
+				moth = true
+				nudibranch = true
+				direwolf = true
+				dragon = true
+				griffon = true
+				nightmare = true
+				geckotoalizard = true
+
 			[light_sources.settings.entities.aoc]
 				elvish_bat = true
 				snow_cannon = true
@@ -640,6 +665,9 @@ mode = "fancy"
 				arcane_barrier = true
 				magic_missile = true
 				solar_strike = true
+
+			[light_sources.settings.entities.oxidized]
+				copper_golem = true
 
 			[light_sources.settings.entities.dawn]
 				custom_tnt = true
