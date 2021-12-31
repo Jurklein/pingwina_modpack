@@ -181,7 +181,7 @@ key_key.waila.show_recipe_input:key.keyboard.keypad.3
 key_key.waila.show_recipe_output:key.keyboard.keypad.4
 key_key.zoomglass.spyglass:key.keyboard.c
 soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_music:0.014084507
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

@@ -765,11 +765,6 @@
     "cloak": "void"
   },
   {
-    "name": "SapphireSpar",
-    "uuid": "105a213f-0fcf-42cc-b098-93b6b6b00989",
-    "cloak": "void"
-  },
-  {
     "name": "AdonHamor",
     "uuid": "1cc3081d-a979-42f8-bb23-fdcb1a60272b",
     "cloak": "golden"
@@ -1350,11 +1345,6 @@
     "cloak": "jeb"
   },
   {
-    "name": "IncubusWoods",
-    "uuid": "5802afad-e986-46da-ae84-4032125d799a",
-    "cloak": "asexual"
-  },
-  {
     "name": "AquatiClip",
     "uuid": "9b7f9ede-55ae-4990-b601-be8ac28f687e",
     "cloak": "cosmic"
@@ -1573,5 +1563,25 @@
     "name": "LDA444",
     "uuid": "70e27b3a-3cd5-47ae-9c69-102ffc928e6f",
     "cloak": "pumpkin"
+  },
+  {
+    "name": "_TOCT_",
+    "uuid": "8ccf17c5-32b0-4b2f-9847-b27171654288",
+    "cloak": "void"
+  },
+  {
+    "name": "PencilVoid",
+    "uuid": "5b3e244a-ef74-421e-8fb9-624cd22ca1d0",
+    "cloak": "genderfluid"
+  },
+  {
+    "name": "SapphireSpar",
+    "uuid": "105a213f-0fcf-42cc-b098-93b6b6b00989",
+    "cloak": "violet"
+  },
+  {
+    "name": "IncubusWoods",
+    "uuid": "5802afad-e986-46da-ae84-4032125d799a",
+    "cloak": "golden"
   }
 ]

@@ -11,6 +11,8 @@
 	"renderTrinkets": true,
 	// Only disables trinket rendering for apples
 	"renderAppleTrinket": true,
+	// How many ender pearls the displacement tome uses per teleport
+	"displacementTomeFuelConsumption": 1,
 	"effectLevels": {
 		"mossNecklaceRegen": 2,
 		"miningGloveMomentum": 2,
