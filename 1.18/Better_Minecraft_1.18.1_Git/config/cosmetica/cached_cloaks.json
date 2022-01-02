@@ -725,11 +725,6 @@
     "cloak": "golden"
   },
   {
-    "name": "AStaleWaffle",
-    "uuid": "5cd67c63-e3c2-43a7-ab0b-b9780ef7152c",
-    "cloak": "cosmic"
-  },
-  {
     "name": "tjlock",
     "uuid": "bd9f549a-94bc-46d7-965c-e3003a5a71f0",
     "cloak": "golden"
@@ -1345,16 +1340,6 @@
     "cloak": "jeb"
   },
   {
-    "name": "AquatiClip",
-    "uuid": "9b7f9ede-55ae-4990-b601-be8ac28f687e",
-    "cloak": "cosmic"
-  },
-  {
-    "name": "Endever_",
-    "uuid": "a9c6f59c-9f2c-4875-844a-8ec223f10c2e",
-    "cloak": "golden"
-  },
-  {
     "name": "Ghostbour",
     "uuid": "568562bf-eb9b-4f6c-a200-53a11704e500",
     "cloak": "void"
@@ -1495,11 +1480,6 @@
     "cloak": "azure"
   },
   {
-    "name": "trozo_89",
-    "uuid": "ab8a14a4-63f8-4073-bbb4-b467cfed88f6",
-    "cloak": "coffee"
-  },
-  {
     "name": "6cpsboi",
     "uuid": "21d4b6b5-00ac-4ca5-a53e-255a66265f4a",
     "cloak": "golden"
@@ -1560,11 +1540,6 @@
     "cloak": "pumpkin"
   },
   {
-    "name": "_TOCT_",
-    "uuid": "8ccf17c5-32b0-4b2f-9847-b27171654288",
-    "cloak": "void"
-  },
-  {
     "name": "PencilVoid",
     "uuid": "5b3e244a-ef74-421e-8fb9-624cd22ca1d0",
     "cloak": "genderfluid"
@@ -1580,8 +1555,53 @@
     "cloak": "golden"
   },
   {
-    "name": "tomtrashh",
-    "uuid": "18ea2138-ccf5-4d26-bb4e-c562256d4b25",
-    "cloak": "jeb"
+    "name": "NCT_Justice",
+    "uuid": "1c40e8c0-2463-4f6b-b936-5ecb962befba",
+    "cloak": "azure"
+  },
+  {
+    "name": "ChezyWhezy",
+    "uuid": "6709293b-f202-48d0-8c36-bcb2b5066c97",
+    "cloak": "pumpkin"
+  },
+  {
+    "name": "_TOCT_",
+    "uuid": "8ccf17c5-32b0-4b2f-9847-b27171654288",
+    "cloak": "smoky"
+  },
+  {
+    "name": "Blade_Sq10_Flame",
+    "uuid": "ee966236-1040-40bb-92e7-a5a73dbdacab",
+    "cloak": "cosmic"
+  },
+  {
+    "name": "fubukaze",
+    "uuid": "70427bf9-3506-4e3e-9b91-ba9e3800054d",
+    "cloak": "trans"
+  },
+  {
+    "name": "AStaleWaffle",
+    "uuid": "5cd67c63-e3c2-43a7-ab0b-b9780ef7152c",
+    "cloak": "enchanted-jeb"
+  },
+  {
+    "name": "Aquastrial",
+    "uuid": "9b7f9ede-55ae-4990-b601-be8ac28f687e",
+    "cloak": "mint"
+  },
+  {
+    "name": "Solstice_X",
+    "uuid": "68f6a3cf-7fd0-4ee0-bd68-0ae1f28926ef",
+    "cloak": "enchanted-jeb"
+  },
+  {
+    "name": "trozo_89",
+    "uuid": "ab8a14a4-63f8-4073-bbb4-b467cfed88f6",
+    "cloak": "smoky"
+  },
+  {
+    "name": "_JesPlays_",
+    "uuid": "73b61431-da0d-4713-966e-936230cb81f7",
+    "cloak": "enchanted-jeb"
   }
 ]
