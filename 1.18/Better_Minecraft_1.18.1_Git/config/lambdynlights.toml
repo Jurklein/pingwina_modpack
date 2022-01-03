@@ -373,6 +373,9 @@ mode = "fancy"
 			[light_sources.settings.entities.additionaladditions]
 				glow_stick = true
 
+			[light_sources.settings.entities.megaparrot]
+				megaparrot = true
+
 			[light_sources.settings.entities.darkwaters]
 				mohast = true
 				miraid_hallucination = true
@@ -470,6 +473,9 @@ mode = "fancy"
 				ender_chest_boat = true
 				chest_boat = true
 
+			[light_sources.settings.entities.snowpig]
+				snow_pig = true
+
 			[light_sources.settings.entities.companion_bats]
 				dynamite = true
 				bat = true
@@ -542,6 +548,11 @@ mode = "fancy"
 				gauntlet = true
 				soul_star = true
 				void_blossom = true
+
+			[light_sources.settings.entities.golemsgalore]
+				obsidian_golem = true
+				amethyst_golem = true
+				laser_golem = true
 
 			[light_sources.settings.entities.arachnids]
 				flare = true
