@@ -124,8 +124,6 @@ key_key.advancedcompass.openwaypointlist:key.keyboard.l
 key_key.adventurez.activatearmor:key.keyboard.v
 key_key.adventurez.dragonflydown:key.keyboard.left.alt
 key_key.adventurez.dragonfirebreath:key.keyboard.grave.accent
-key_key.arachnids.reload:key.keyboard.r
-key_key.arachnids.scope:key.keyboard.left.alt
 key_key.areyoublind.toggleonoff:key.keyboard.g
 key_key.areyoublind.attl:key.keyboard.keypad.add
 key_key.areyoublind.rftl:key.keyboard.keypad.subtract
@@ -181,6 +179,11 @@ key_key.waila.show_overlay:key.keyboard.keypad.1
 key_key.waila.toggle_liquid:key.keyboard.keypad.2
 key_key.waila.show_recipe_input:key.keyboard.keypad.3
 key_key.waila.show_recipe_output:key.keyboard.keypad.4
+key_gui.xaero_open_map:key.keyboard.m
+key_gui.xaero_open_settings:key.keyboard.right.bracket
+key_gui.xaero_map_zoom_in:key.keyboard.unknown
+key_gui.xaero_map_zoom_out:key.keyboard.unknown
+key_gui.xaero_quick_confirm:key.keyboard.right.shift
 key_key.zoomglass.spyglass:key.keyboard.c
 soundCategory_master:1.0
 soundCategory_music:0.014084507

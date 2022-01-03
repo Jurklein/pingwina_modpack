@@ -1505,11 +1505,6 @@
     "cloak": "azure"
   },
   {
-    "name": "s596",
-    "uuid": "415a1172-1205-418d-99b8-b18806609b36",
-    "cloak": "azure"
-  },
-  {
     "name": "Minecraft_Slime",
     "uuid": "190cab19-9f23-423c-bd6d-238691f88480",
     "cloak": "uni"
@@ -1590,11 +1585,6 @@
     "cloak": "mint"
   },
   {
-    "name": "Solstice_X",
-    "uuid": "68f6a3cf-7fd0-4ee0-bd68-0ae1f28926ef",
-    "cloak": "enchanted-jeb"
-  },
-  {
     "name": "trozo_89",
     "uuid": "ab8a14a4-63f8-4073-bbb4-b467cfed88f6",
     "cloak": "smoky"
@@ -1612,6 +1602,16 @@
   {
     "name": "FadingPhantoms",
     "uuid": "b866110c-dc81-47a6-b199-ee7fc3bb87e6",
+    "cloak": "cosmic"
+  },
+  {
+    "name": "s596",
+    "uuid": "415a1172-1205-418d-99b8-b18806609b36",
+    "cloak": "smoky"
+  },
+  {
+    "name": "Solstice_X",
+    "uuid": "68f6a3cf-7fd0-4ee0-bd68-0ae1f28926ef",
     "cloak": "cosmic"
   }
 ]

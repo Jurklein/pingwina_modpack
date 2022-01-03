@@ -296,6 +296,26 @@
     "blockus:legacy_leaves": {
       "spawnRateFactor": 1.0,
       "isConiferBlock": false
+    },
+    "promenade:white_cherry_oak_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "promenade:palm_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "promenade:autumn_birch_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "promenade:pink_cherry_oak_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
+    },
+    "promenade:autumn_oak_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
     }
   }
 }

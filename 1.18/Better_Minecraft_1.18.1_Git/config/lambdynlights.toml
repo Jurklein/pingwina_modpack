@@ -596,6 +596,11 @@ mode = "fancy"
 				evil_elf_brute = true
 				raider_elf = true
 
+			[light_sources.settings.entities.promenade]
+				sunken_skeleton = true
+				duck = true
+				lush_creeper = true
+
 			[light_sources.settings.entities.aqupd]
 				caracal = true
 				grizzly_bear = true
