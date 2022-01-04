@@ -36,8 +36,8 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","Fabric Mods","fabric-copper-golem/copper_golem","loadmyresources.hiddenpack","file/French_Fonts_8__1.17.1-1.18","file/MedievalMusic","file/MedievalMusic2","file/STONEBORN+-+1.18+-+V3.0","file/EmbellishedStone-1.17.1","file/1.18+STONEBORN+-+Appleskin+Compat","file/Better+chickens+V1.1+-+Mrblueyeti","file/Better-Leaves-6.1-1.13+","file/Better_Dogs_V1.15","file/Broken_Tools_V2_1.18","file/STONEBORN+Gear-LOW_EYES-1.18+-+V2.0"]
-incompatibleResourcePacks:["file/French_Fonts_8__1.17.1-1.18","file/EmbellishedStone-1.17.1","file/Better+chickens+V1.1+-+Mrblueyeti","file/Better_Dogs_V1.15","file/STONEBORN+Gear-LOW_EYES-1.18+-+V2.0"]
+resourcePacks:["vanilla","Fabric Mods","fabric-copper-golem/copper_golem","loadmyresources.hiddenpack","file/French_Fonts_8__1.17.1-1.18","file/MedievalMusic","file/MedievalMusic2","file/STONEBORN+-+1.18+-+V3.0","file/EmbellishedStone-1.17.1","file/1.18+STONEBORN+-+Appleskin+Compat","file/Better-Leaves-6.1-1.13+","file/Broken_Tools_V2_1.18","file/STONEBORN+Gear-LOW_EYES-1.18+-+V2.0"]
+incompatibleResourcePacks:["file/French_Fonts_8__1.17.1-1.18","file/EmbellishedStone-1.17.1","file/STONEBORN+Gear-LOW_EYES-1.18+-+V2.0"]
 lastServer:
 lang:en_us
 soundDevice:
@@ -115,6 +115,8 @@ key_key.bettercontrols.toggle_jump:key.keyboard.unknown
 key_key.bettercontrols.reset_all_toggles:key.keyboard.unknown
 key_key.bettercontrols.open_menu:key.keyboard.unknown
 key_Toggle Drippy Customization Overlay | CTRL + ALT + :key.keyboard.l
+key_key.dynamicfps.toggle_forced:key.keyboard.unknown
+key_key.dynamicfps.toggle_disabled:key.keyboard.unknown
 key_Reload Menu | CTRL + ALT + :key.keyboard.r
 key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c
 key_key.firstperson.toggle:key.keyboard.f6
@@ -124,6 +126,7 @@ key_key.advancedcompass.openwaypointlist:key.keyboard.l
 key_key.adventurez.activatearmor:key.keyboard.v
 key_key.adventurez.dragonflydown:key.keyboard.left.alt
 key_key.adventurez.dragonfirebreath:key.keyboard.grave.accent
+key_key.antighost.reveal:key.keyboard.g
 key_key.areyoublind.toggleonoff:key.keyboard.g
 key_key.areyoublind.attl:key.keyboard.keypad.add
 key_key.areyoublind.rftl:key.keyboard.keypad.subtract
@@ -168,7 +171,9 @@ key_key.guild.quest_screen:key.keyboard.j
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
+key_key.levelz.openskillscreen:key.keyboard.k
 key_key.nameplate.shownameplate:key.keyboard.keypad.add
+key_nimble.keybind.frontView:key.keyboard.f4
 key_key.origins.primary_active:key.keyboard.g
 key_key.origins.secondary_active:key.keyboard.unknown
 key_key.origins.view_origin:key.keyboard.o

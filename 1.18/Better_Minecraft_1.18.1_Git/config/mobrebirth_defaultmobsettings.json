@@ -1,8 +1,8 @@
 {
   "enabled": true,
-  "rebirthChance": 0.1,
-  "extraMobChance": 0.01,
-  "extraMobMode": "continuous",
+  "rebirthChance": 0.4,
+  "extraMobChance": 1.4,
+  "extraMobMode": "all",
   "extraMobCount": 1,
   "rebornAsEggs": false,
   "rebirthFromPlayer": true,

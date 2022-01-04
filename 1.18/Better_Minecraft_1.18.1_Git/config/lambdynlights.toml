@@ -391,6 +391,9 @@ mode = "fancy"
 				singularity = true
 				tiny_tnt_primed = true
 
+			[light_sources.settings.entities.observed]
+				observer = true
+
 			[light_sources.settings.entities.graveyard]
 				acolyte = true
 				skeleton_creeper = true
@@ -468,6 +471,9 @@ mode = "fancy"
 
 			[light_sources.settings.entities.origins]
 				enderian_pearl = true
+
+			[light_sources.settings.entities.overlord]
+				owned_skeleton = true
 
 			[light_sources.settings.entities.boatcontainer]
 				ender_chest_boat = true
@@ -600,6 +606,7 @@ mode = "fancy"
 				griffon = true
 				nightmare = true
 				geckotoalizard = true
+				acencia = true
 
 			[light_sources.settings.entities.aoc]
 				elvish_bat = true
@@ -737,4 +744,7 @@ mode = "fancy"
 				copper_golem = true
 				glare = true
 				moobloom = true
+
+			[light_sources.settings.entities.tinyskeletons]
+				baby_skeleton = true
 
