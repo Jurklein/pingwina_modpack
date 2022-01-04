@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "rebirthChance": 0.4,
-  "extraMobChance": 1.4,
+  "rebirthChance": 0.01,
+  "extraMobChance": 0.01,
   "extraMobMode": "all",
   "extraMobCount": 1,
   "rebornAsEggs": false,
