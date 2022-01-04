@@ -550,6 +550,7 @@ mode = "fancy"
 				void_blossom = true
 
 			[light_sources.settings.entities.golemsgalore]
+				quartz_golem = true
 				obsidian_golem = true
 				amethyst_golem = true
 				laser_golem = true
