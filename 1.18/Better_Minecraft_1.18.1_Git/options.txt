@@ -130,6 +130,8 @@ key_key.areyoublind.toggleonoff:key.keyboard.g
 key_key.areyoublind.attl:key.keyboard.keypad.add
 key_key.areyoublind.rftl:key.keyboard.keypad.subtract
 key_key.areyoublind.openconfig:key.keyboard.k
+key_key.besmirchment.familiar_ability:key.keyboard.k
+key_key.bewitchment.transformation_ability:key.keyboard.r
 key_key.chestcavity.utility_abilities:key.keyboard.v
 key_key.chestcavity.attack_abilities:key.keyboard.r
 key_key.chestcavity.creepy:key.keyboard.keypad.decimal
@@ -167,6 +169,7 @@ key_Show comparison tooltip:key.keyboard.left.shift
 key_fpsreducer.key.openGui:key.keyboard.end
 key_fpsreducer.key.forceIdle:key.keyboard.pause
 key_key.guild.quest_screen:key.keyboard.j
+key_key.haema.dash:key.keyboard.z
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
