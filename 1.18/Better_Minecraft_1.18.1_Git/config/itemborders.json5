@@ -5,6 +5,12 @@
 	"showForCommon": false,
 	// If the borders should have square corners.
 	"squareCorners": false,
+	// If the borders should fully envelop item slots (otherwise they will only show on the bottom portion of the slot).
+	"fullBorder": false,
+	// If the borders draw over items instead of under.
+	"overItems": false,
+	// If the borders should have a more prominent glow.
+	"extraGlow": false,
 	// If automatic borders (based on item rarity) should be enabled.
 	"automaticBorders": true,
 	/* Custom border colors for specific items.  Format: { "<color>": ["list of selectors"] }.  Selectors supported:

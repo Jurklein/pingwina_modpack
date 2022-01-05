@@ -349,6 +349,7 @@ mode = "fancy"
 				ghost = true
 				werewolf = true
 				raven = true
+				owl = true
 
 			[light_sources.settings.entities.betteranimalsplus]
 				deer = true
