@@ -1,1 +1,40 @@
-{"bookGuiScale":0,"clickedVisualize":false,"bookData":{}}
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "bewitchment:book_of_shadows": {
+      "viewedEntries": [
+        "bewitchment:introduction/crops",
+        "bewitchment:introduction/silver",
+        "bewitchment:introduction/salt",
+        "bewitchment:introduction/juniper_trees",
+        "bewitchment:introduction/elder_trees",
+        "bewitchment:introduction/cypress_trees",
+        "besmirchment:tools/demonic_deed",
+        "bewitchment:tools/taglock"
+      ],
+      "bookmarks": [],
+      "history": [
+        "besmirchment:tools/demonic_deed",
+        "bewitchment:tools/taglock",
+        "bewitchment:introduction/cypress_trees",
+        "bewitchment:introduction/elder_trees",
+        "bewitchment:introduction/juniper_trees",
+        "bewitchment:introduction/salt",
+        "bewitchment:introduction/silver",
+        "bewitchment:introduction/crops"
+      ],
+      "completedManualQuests": []
+    },
+    "croptopia:guide": {
+      "viewedEntries": [
+        "croptopia:ingredients/salt"
+      ],
+      "bookmarks": [],
+      "history": [
+        "croptopia:ingredients/salt"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}

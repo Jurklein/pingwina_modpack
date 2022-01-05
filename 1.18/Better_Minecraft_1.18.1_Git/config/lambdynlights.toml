@@ -345,6 +345,11 @@ mode = "fancy"
 				dynamite = true
 				bat = true
 
+			[light_sources.settings.entities.bewitchment]
+				ghost = true
+				werewolf = true
+				raven = true
+
 			[light_sources.settings.entities.betteranimalsplus]
 				deer = true
 				feralwolf = true

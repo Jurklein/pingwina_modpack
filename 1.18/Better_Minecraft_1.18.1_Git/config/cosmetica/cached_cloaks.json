@@ -925,11 +925,6 @@
     "cloak": "golden"
   },
   {
-    "name": "MegaPig31",
-    "uuid": "c186bf70-d187-4ac4-898f-692ed30375a8",
-    "cloak": "military"
-  },
-  {
     "name": "RockyWharf",
     "uuid": "1da753e1-b6c9-4574-9c2d-a523414faa39",
     "cloak": "cosmic"
@@ -1600,11 +1595,6 @@
     "cloak": "smoky"
   },
   {
-    "name": "FadingPhantoms",
-    "uuid": "b866110c-dc81-47a6-b199-ee7fc3bb87e6",
-    "cloak": "cosmic"
-  },
-  {
     "name": "s596",
     "uuid": "415a1172-1205-418d-99b8-b18806609b36",
     "cloak": "smoky"
@@ -1613,5 +1603,15 @@
     "name": "Solstice_X",
     "uuid": "68f6a3cf-7fd0-4ee0-bd68-0ae1f28926ef",
     "cloak": "cosmic"
+  },
+  {
+    "name": "FadingPhantoms",
+    "uuid": "b866110c-dc81-47a6-b199-ee7fc3bb87e6",
+    "cloak": "azure"
+  },
+  {
+    "name": "MegaPig31",
+    "uuid": "c186bf70-d187-4ac4-898f-692ed30375a8",
+    "cloak": "crimson"
   }
 ]
