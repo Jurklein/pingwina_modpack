@@ -630,16 +630,17 @@ mode = "fancy"
 
 			[light_sources.settings.entities.elementalcreepers]
 				rainbow_creeper = true
-				hydrogen_creeper = true
 				illusion_creeper = true
 				cookie_creeper = true
-				earth_creeper = true
-				reverse_creeper = true
 				firework_creeper = true
-				light_creeper = true
-				electric_creeper = true
+				ice_creeper = true
 				fire_creeper = true
 				water_creeper = true
+				hydrogen_creeper = true
+				earth_creeper = true
+				reverse_creeper = true
+				light_creeper = true
+				electric_creeper = true
 				dark_creeper = true
 
 			[light_sources.settings.entities.megaparrot]
@@ -663,6 +664,19 @@ mode = "fancy"
 
 			[light_sources.settings.entities.vanilla_degus]
 				degu = true
+
+			[light_sources.settings.entities.creeperoverhaul]
+				swamp_creeper = true
+				snowy_creeper = true
+				bamboo_creeper = true
+				badlands_creeper = true
+				desert_creeper = true
+				dark_oak_creeper = true
+				jungle_creeper = true
+				dripstone_creeper = true
+				cave_creeper = true
+				mushroom_creeper = true
+				beach_creeper = true
 
 			[light_sources.settings.entities.ottercraft]
 				otter = true

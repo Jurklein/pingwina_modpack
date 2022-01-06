@@ -1623,5 +1623,10 @@
     "name": "GandalfTheDanke",
     "uuid": "01ed8c37-8bab-4424-9ca6-3bc65c775477",
     "cloak": "void"
+  },
+  {
+    "name": "Meganodark",
+    "uuid": "5d9c7410-06ac-4bfb-aa48-c567c004a1d7",
+    "cloak": "void"
   }
 ]
