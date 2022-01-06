@@ -350,6 +350,7 @@ mode = "fancy"
 				werewolf = true
 				raven = true
 				owl = true
+				snake = true
 				hellhound = true
 
 			[light_sources.settings.entities.betteranimalsplus]
@@ -613,11 +614,27 @@ mode = "fancy"
 			[light_sources.settings.entities.ratsmischief]
 				rat = true
 
+			[light_sources.settings.entities.haema]
+				vampire_hunter = true
+
 			[light_sources.settings.entities.additionaladditions]
 				glow_stick = true
 
 			[light_sources.settings.entities.hookshot]
 				hookshot = true
+
+			[light_sources.settings.entities.elementalcreepers]
+				rainbow_creeper = true
+				hydrogen_creeper = true
+				illusion_creeper = true
+				earth_creeper = true
+				reverse_creeper = true
+				firework_creeper = true
+				light_creeper = true
+				electric_creeper = true
+				fire_creeper = true
+				water_creeper = true
+				dark_creeper = true
 
 			[light_sources.settings.entities.megaparrot]
 				megaparrot = true
