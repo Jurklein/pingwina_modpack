@@ -350,6 +350,7 @@ mode = "fancy"
 				werewolf = true
 				raven = true
 				owl = true
+				hellhound = true
 
 			[light_sources.settings.entities.betteranimalsplus]
 				deer = true

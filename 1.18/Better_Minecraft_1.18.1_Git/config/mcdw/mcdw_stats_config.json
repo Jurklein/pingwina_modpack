@@ -1,61 +1,31 @@
 {
   "swordStats": {
-    "SWORD_BROADSWORD": {
+    "SWORD_CLAYMORE": {
       "material": "iron",
-      "damage": 4,
+      "damage": 5,
       "attackSpeed": -3.0
-    },
-    "SWORD_THE_STARLESS_NIGHT": {
-      "material": "iron",
-      "damage": 10,
-      "attackSpeed": -3.0
-    },
-    "SWORD_GREAT_AXEBLADE": {
-      "material": "iron",
-      "damage": 6,
-      "attackSpeed": -3.0
-    },
-    "SWORD_MASTERS_KATANA": {
-      "material": "diamond",
-      "damage": 1,
-      "attackSpeed": -1.1
-    },
-    "SWORD_HEARTSTEALER": {
-      "material": "diamond",
-      "damage": 4,
-      "attackSpeed": -3.0
-    },
-    "SWORD_BEESTINGER": {
-      "material": "iron",
-      "damage": 0,
-      "attackSpeed": -0.9
     },
     "SWORD_OBSIDIAN_CLAYMORE": {
       "material": "iron",
       "damage": 8,
       "attackSpeed": -3.0
     },
-    "SWORD_IRON_SWORD_VAR": {
-      "material": "iron",
-      "damage": 3,
-      "attackSpeed": -2.4
-    },
-    "SWORD_CORAL_BLADE": {
-      "material": "iron",
-      "damage": 3,
-      "attackSpeed": -2.4
-    },
-    "SWORD_SINISTER": {
-      "material": "iron",
-      "damage": 5,
-      "attackSpeed": -2.0
-    },
-    "SWORD_DIAMOND_SWORD_VAR": {
+    "SWORD_HEARTSTEALER": {
       "material": "diamond",
-      "damage": 3,
-      "attackSpeed": -2.4
+      "damage": 4,
+      "attackSpeed": -3.0
     },
-    "SWORD_FREEZING_FOIL": {
+    "SWORD_KATANA": {
+      "material": "iron",
+      "damage": 1,
+      "attackSpeed": -1.5
+    },
+    "SWORD_FROST_SLAYER": {
+      "material": "diamond",
+      "damage": 5,
+      "attackSpeed": -3.0
+    },
+    "SWORD_RAPIER": {
       "material": "iron",
       "damage": 0,
       "attackSpeed": -0.9
@@ -70,10 +40,70 @@
       "damage": 3,
       "attackSpeed": -2.4
     },
-    "SWORD_KATANA": {
+    "SWORD_DARK_KATANA": {
+      "material": "netherite",
+      "damage": 2,
+      "attackSpeed": -1.15
+    },
+    "SWORD_MECHANIZED_SAWBLADE": {
+      "material": "diamond",
+      "damage": 3,
+      "attackSpeed": -2.4
+    },
+    "SWORD_IRON_SWORD_VAR": {
+      "material": "iron",
+      "damage": 3,
+      "attackSpeed": -2.4
+    },
+    "SWORD_BEESTINGER": {
+      "material": "iron",
+      "damage": 0,
+      "attackSpeed": -0.9
+    },
+    "SWORD_CORAL_BLADE": {
+      "material": "iron",
+      "damage": 3,
+      "attackSpeed": -2.4
+    },
+    "SWORD_DIAMOND_SWORD_VAR": {
+      "material": "diamond",
+      "damage": 3,
+      "attackSpeed": -2.4
+    },
+    "SWORD_DANCERS_SWORD": {
       "material": "iron",
       "damage": 1,
-      "attackSpeed": -1.5
+      "attackSpeed": -1.0
+    },
+    "SWORD_FREEZING_FOIL": {
+      "material": "iron",
+      "damage": 0,
+      "attackSpeed": -0.9
+    },
+    "SWORD_THE_STARLESS_NIGHT": {
+      "material": "iron",
+      "damage": 10,
+      "attackSpeed": -3.0
+    },
+    "SWORD_MASTERS_KATANA": {
+      "material": "diamond",
+      "damage": 1,
+      "attackSpeed": -1.1
+    },
+    "SWORD_SINISTER": {
+      "material": "iron",
+      "damage": 5,
+      "attackSpeed": -2.0
+    },
+    "SWORD_GREAT_AXEBLADE": {
+      "material": "iron",
+      "damage": 6,
+      "attackSpeed": -3.0
+    },
+    "SWORD_BROADSWORD": {
+      "material": "iron",
+      "damage": 4,
+      "attackSpeed": -3.0
     },
     "SWORD_CUTLASS": {
       "material": "iron",
@@ -85,54 +115,29 @@
       "damage": 3,
       "attackSpeed": -2.4
     },
-    "SWORD_DARK_KATANA": {
-      "material": "netherite",
-      "damage": 2,
-      "attackSpeed": -1.15
-    },
-    "SWORD_RAPIER": {
-      "material": "iron",
-      "damage": 0,
-      "attackSpeed": -0.9
-    },
-    "SWORD_FROST_SLAYER": {
-      "material": "diamond",
-      "damage": 5,
-      "attackSpeed": -3.0
-    },
-    "SWORD_CLAYMORE": {
-      "material": "iron",
-      "damage": 5,
-      "attackSpeed": -3.0
-    },
-    "SWORD_MECHANIZED_SAWBLADE": {
-      "material": "diamond",
-      "damage": 3,
-      "attackSpeed": -2.4
-    },
     "SWORD_NAMELESS_BLADE": {
       "material": "iron",
       "damage": 1,
       "attackSpeed": -1.7
-    },
-    "SWORD_DANCERS_SWORD": {
-      "material": "iron",
-      "damage": 1,
-      "attackSpeed": -1.0
     }
   },
   "axeStats": {
+    "AXE": {
+      "material": "iron",
+      "damage": 6,
+      "attackSpeed": -3.1
+    },
     "AXE_FIREBRAND": {
       "material": "diamond",
       "damage": 5,
       "attackSpeed": -2.9
     },
-    "AXE_HIGHLAND": {
-      "material": "iron",
-      "damage": 6,
+    "AXE_ENCRUSTED_ANCHOR": {
+      "material": "diamond",
+      "damage": 5,
       "attackSpeed": -3.1
     },
-    "AXE": {
+    "AXE_HIGHLAND": {
       "material": "iron",
       "damage": 6,
       "attackSpeed": -3.1
@@ -141,31 +146,61 @@
       "material": "iron",
       "damage": 6,
       "attackSpeed": -3.1
-    },
-    "AXE_ENCRUSTED_ANCHOR": {
-      "material": "diamond",
-      "damage": 5,
-      "attackSpeed": -3.1
     }
   },
   "doubleAxeStats": {
-    "AXE_WHIRLWIND": {
+    "AXE_DOUBLE": {
       "material": "iron",
       "damage": 6,
-      "attackSpeed": -2.9
+      "attackSpeed": -3.1
     },
     "AXE_CURSED": {
       "material": "iron",
       "damage": 7,
       "attackSpeed": -3.1
     },
-    "AXE_DOUBLE": {
+    "AXE_WHIRLWIND": {
       "material": "iron",
       "damage": 6,
-      "attackSpeed": -3.1
+      "attackSpeed": -2.9
     }
   },
   "daggerStats": {
+    "DAGGER_THE_BEGINNING": {
+      "material": "netherite",
+      "damage": 4,
+      "attackSpeed": -1.2
+    },
+    "DAGGER_TEMPEST_KNIFE": {
+      "material": "iron",
+      "damage": 2,
+      "attackSpeed": -1.3
+    },
+    "DAGGER_DAGGER": {
+      "material": "iron",
+      "damage": 1,
+      "attackSpeed": -1.3
+    },
+    "DAGGER_MOON": {
+      "material": "iron",
+      "damage": 1,
+      "attackSpeed": -1.0
+    },
+    "DAGGER_SHEAR_DAGGER": {
+      "material": "iron",
+      "damage": 1,
+      "attackSpeed": -1.3
+    },
+    "DAGGER_CHILL_GALE_KNIFE": {
+      "material": "iron",
+      "damage": 4,
+      "attackSpeed": -1.3
+    },
+    "DAGGER_VOID_TOUCHED_BLADE": {
+      "material": "diamond",
+      "damage": 4,
+      "attackSpeed": -1.2
+    },
     "DAGGER_THE_END": {
       "material": "netherite",
       "damage": 4,
@@ -181,50 +216,15 @@
       "damage": 1,
       "attackSpeed": -1.0
     },
-    "DAGGER_SHEAR_DAGGER": {
-      "material": "iron",
-      "damage": 1,
-      "attackSpeed": -1.3
-    },
     "DAGGER_BACKSTABBER": {
       "material": "diamond",
       "damage": 3,
       "attackSpeed": -1.2
     },
-    "DAGGER_TEMPEST_KNIFE": {
-      "material": "iron",
-      "damage": 2,
-      "attackSpeed": -1.3
-    },
-    "DAGGER_THE_BEGINNING": {
-      "material": "netherite",
-      "damage": 4,
-      "attackSpeed": -1.2
-    },
-    "DAGGER_CHILL_GALE_KNIFE": {
-      "material": "iron",
-      "damage": 4,
-      "attackSpeed": -1.3
-    },
-    "DAGGER_DAGGER": {
-      "material": "iron",
-      "damage": 1,
-      "attackSpeed": -1.3
-    },
-    "DAGGER_MOON": {
-      "material": "iron",
-      "damage": 1,
-      "attackSpeed": -1.0
-    },
     "DAGGER_SWIFT_STRIKER": {
       "material": "netherite",
       "damage": 4,
       "attackSpeed": -1.0
-    },
-    "DAGGER_VOID_TOUCHED_BLADE": {
-      "material": "diamond",
-      "damage": 4,
-      "attackSpeed": -1.2
     }
   },
   "soulDaggerStats": {
@@ -245,25 +245,10 @@
     }
   },
   "hammerStats": {
-    "HAMMER_BONE_CUDGEL": {
-      "material": "diamond",
+    "HAMMER_BONECLUB": {
+      "material": "iron",
       "damage": 5,
       "attackSpeed": -3.1
-    },
-    "HAMMER_GREAT": {
-      "material": "iron",
-      "damage": 4,
-      "attackSpeed": -3.0
-    },
-    "HAMMER_MACE": {
-      "material": "iron",
-      "damage": 4,
-      "attackSpeed": -2.9
-    },
-    "HAMMER_SUNS_GRACE": {
-      "material": "diamond",
-      "damage": 4,
-      "attackSpeed": -2.5
     },
     "HAMMER_GRAVITY": {
       "material": "diamond",
@@ -280,18 +265,28 @@
       "damage": 5,
       "attackSpeed": -3.0
     },
-    "HAMMER_BONECLUB": {
-      "material": "iron",
+    "HAMMER_BONE_CUDGEL": {
+      "material": "diamond",
       "damage": 5,
       "attackSpeed": -3.1
+    },
+    "HAMMER_MACE": {
+      "material": "iron",
+      "damage": 4,
+      "attackSpeed": -2.9
+    },
+    "HAMMER_GREAT": {
+      "material": "iron",
+      "damage": 4,
+      "attackSpeed": -3.0
+    },
+    "HAMMER_SUNS_GRACE": {
+      "material": "diamond",
+      "damage": 4,
+      "attackSpeed": -2.5
     }
   },
   "gauntletStats": {
-    "GAUNTLET_GAUNTLET": {
-      "material": "iron",
-      "damage": 0,
-      "attackSpeed": -1.4
-    },
     "GAUNTLET_SOUL_FISTS": {
       "material": "netherite",
       "damage": 0,
@@ -301,17 +296,22 @@
       "material": "diamond",
       "damage": 0,
       "attackSpeed": -1.4
+    },
+    "GAUNTLET_GAUNTLET": {
+      "material": "iron",
+      "damage": 0,
+      "attackSpeed": -1.4
     }
   },
   "sickleStats": {
-    "SICKLE_LAST_LAUGH_GOLD": {
-      "material": "iron",
-      "damage": 2,
-      "attackSpeed": -1.9
-    },
     "SICKLE_NIGHTMARES_BITE": {
       "material": "iron",
       "damage": 3,
+      "attackSpeed": -1.9
+    },
+    "SICKLE_SICKLE": {
+      "material": "iron",
+      "damage": 1,
       "attackSpeed": -1.9
     },
     "SICKLE_LAST_LAUGH_SILVER": {
@@ -319,13 +319,18 @@
       "damage": 2,
       "attackSpeed": -1.9
     },
-    "SICKLE_SICKLE": {
+    "SICKLE_LAST_LAUGH_GOLD": {
       "material": "iron",
-      "damage": 1,
+      "damage": 2,
       "attackSpeed": -1.9
     }
   },
   "scytheStats": {
+    "SICKLE_SOUL_SCYTHE": {
+      "material": "diamond",
+      "damage": 3,
+      "attackSpeed": -2.25
+    },
     "SICKLE_FROST_SCYTHE": {
       "material": "diamond",
       "damage": 4,
@@ -340,14 +345,14 @@
       "material": "iron",
       "damage": 4,
       "attackSpeed": -2.25
-    },
-    "SICKLE_SOUL_SCYTHE": {
-      "material": "diamond",
-      "damage": 3,
-      "attackSpeed": -2.25
     }
   },
   "pickStats": {
+    "PICK_HOWLING_PICK": {
+      "material": "iron",
+      "damage": 1,
+      "attackSpeed": -2.8
+    },
     "PICK_HAILING_PINNACLE": {
       "material": "diamond",
       "damage": 1,
@@ -362,24 +367,9 @@
       "material": "iron",
       "damage": 1,
       "attackSpeed": -2.8
-    },
-    "PICK_HOWLING_PICK": {
-      "material": "iron",
-      "damage": 1,
-      "attackSpeed": -2.8
     }
   },
   "glaiveStats": {
-    "SPEAR_CACKLING_BROOM": {
-      "material": "iron",
-      "damage": 5,
-      "attackSpeed": -2.4
-    },
-    "SPEAR_GRAVE_BANE": {
-      "material": "iron",
-      "damage": 5,
-      "attackSpeed": -2.4
-    },
     "SPEAR_VENOM_GLAIVE": {
       "material": "iron",
       "damage": 5,
@@ -389,9 +379,24 @@
       "material": "iron",
       "damage": 3,
       "attackSpeed": -2.7
+    },
+    "SPEAR_GRAVE_BANE": {
+      "material": "iron",
+      "damage": 5,
+      "attackSpeed": -2.4
+    },
+    "SPEAR_CACKLING_BROOM": {
+      "material": "iron",
+      "damage": 5,
+      "attackSpeed": -2.4
     }
   },
   "spearStats": {
+    "SPEAR_SPEAR": {
+      "material": "iron",
+      "damage": 3,
+      "attackSpeed": -2.5
+    },
     "SPEAR_WHISPERING_SPEAR": {
       "material": "iron",
       "damage": 5,
@@ -401,19 +406,9 @@
       "material": "iron",
       "damage": 4,
       "attackSpeed": -2.15
-    },
-    "SPEAR_SPEAR": {
-      "material": "iron",
-      "damage": 3,
-      "attackSpeed": -2.5
     }
   },
   "staffStats": {
-    "STAFF_GROWING_STAFF": {
-      "material": "iron",
-      "damage": 1,
-      "attackSpeed": -0.1
-    },
     "STAFF_BATTLESTAFF": {
       "material": "wood",
       "damage": 0,
@@ -422,6 +417,11 @@
     "STAFF_BATTLESTAFF_OF_TERROR": {
       "material": "iron",
       "damage": 0,
+      "attackSpeed": -0.1
+    },
+    "STAFF_GROWING_STAFF": {
+      "material": "iron",
+      "damage": 1,
       "attackSpeed": -0.1
     }
   },
@@ -438,125 +438,100 @@
     }
   },
   "bowStats": {
-    "BOW_ELITE_POWER_BOW": {
-      "material": "iron",
-      "drawSpeed": 20.0,
-      "range": 6.4
-    },
-    "BOW_SHIVERING_BOW": {
-      "material": "diamond",
-      "drawSpeed": 12.0,
-      "range": 4.0
-    },
-    "BOW_MASTERS_BOW": {
-      "material": "iron",
-      "drawSpeed": 15.0,
-      "range": 4.4
-    },
-    "BOW_HAUNTED_BOW": {
-      "material": "netherite",
-      "drawSpeed": 28.0,
-      "range": 7.0
-    },
-    "BOW_SABREWING": {
-      "material": "diamond",
-      "drawSpeed": 8.0,
-      "range": 9.0
-    },
-    "BOW_TRICKBOW": {
-      "material": "diamond",
-      "drawSpeed": 10.0,
-      "range": 4.2
-    },
-    "BOW_PHANTOM_BOW": {
-      "material": "diamond",
-      "drawSpeed": 20.0,
-      "range": 6.4
-    },
-    "BOW_GREEN_MENACE": {
-      "material": "diamond",
-      "drawSpeed": 15.0,
-      "range": 5.6
-    },
-    "BOW_PINK_SCOUNDREL": {
-      "material": "diamond",
-      "drawSpeed": 15.0,
-      "range": 5.6
-    },
     "BOW_LOST_SOULS": {
       "material": "netherite",
       "drawSpeed": 8.0,
       "range": 7.4
-    },
-    "BOW_SNOW_BOW": {
-      "material": "iron",
-      "drawSpeed": 14.0,
-      "range": 4.8
-    },
-    "BOW_WEEPING_VINE_BOW": {
-      "material": "iron",
-      "drawSpeed": 13.0,
-      "range": 4.0
-    },
-    "BOW_SOUL_BOW": {
-      "material": "iron",
-      "drawSpeed": 12.0,
-      "range": 4.0
-    },
-    "BOW_NOCTURNAL_BOW": {
-      "material": "diamond",
-      "drawSpeed": 15.0,
-      "range": 6.0
-    },
-    "BOW_POWER_BOW": {
-      "material": "iron",
-      "drawSpeed": 20.0,
-      "range": 6.4
-    },
-    "BOW_BURST_GALE_BOW": {
-      "material": "diamond",
-      "drawSpeed": 10.0,
-      "range": 7.2
-    },
-    "BOW_BONEBOW": {
-      "material": "stone",
-      "drawSpeed": 16.0,
-      "range": 3.4
-    },
-    "BOW_ANCIENT_BOW": {
-      "material": "netherite",
-      "drawSpeed": 12.0,
-      "range": 7.6
-    },
-    "BOW_TWISTING_VINE_BOW": {
-      "material": "iron",
-      "drawSpeed": 13.0,
-      "range": 4.0
-    },
-    "BOW_CALL_OF_THE_VOID": {
-      "material": "netherite",
-      "drawSpeed": 13.0,
-      "range": 4.3
     },
     "BOW_WINTERS_TOUCH": {
       "material": "diamond",
       "drawSpeed": 13.0,
       "range": 5.2
     },
-    "BOW_WIND_BOW": {
+    "BOW_HUNTING_BOW": {
+      "material": "iron",
+      "drawSpeed": 14.0,
+      "range": 4.6
+    },
+    "BOW_ELITE_POWER_BOW": {
+      "material": "iron",
+      "drawSpeed": 20.0,
+      "range": 6.4
+    },
+    "BOW_POWER_BOW": {
+      "material": "iron",
+      "drawSpeed": 20.0,
+      "range": 6.4
+    },
+    "BOW_PINK_SCOUNDREL": {
       "material": "diamond",
-      "drawSpeed": 9.0,
-      "range": 6.8
+      "drawSpeed": 15.0,
+      "range": 5.6
+    },
+    "BOW_CALL_OF_THE_VOID": {
+      "material": "netherite",
+      "drawSpeed": 13.0,
+      "range": 4.3
+    },
+    "BOW_WEB_BOW": {
+      "material": "diamond",
+      "drawSpeed": 13.0,
+      "range": 5.2
+    },
+    "BOW_SOUL_BOW": {
+      "material": "iron",
+      "drawSpeed": 12.0,
+      "range": 4.0
+    },
+    "BOW_GREEN_MENACE": {
+      "material": "diamond",
+      "drawSpeed": 15.0,
+      "range": 5.6
+    },
+    "BOW_BONEBOW": {
+      "material": "stone",
+      "drawSpeed": 16.0,
+      "range": 3.4
+    },
+    "BOW_SABREWING": {
+      "material": "diamond",
+      "drawSpeed": 8.0,
+      "range": 9.0
+    },
+    "BOW_TWISTING_VINE_BOW": {
+      "material": "iron",
+      "drawSpeed": 13.0,
+      "range": 4.0
+    },
+    "BOW_SNOW_BOW": {
+      "material": "iron",
+      "drawSpeed": 14.0,
+      "range": 4.8
+    },
+    "BOW_MASTERS_BOW": {
+      "material": "iron",
+      "drawSpeed": 15.0,
+      "range": 4.4
+    },
+    "BOW_NOCTURNAL_BOW": {
+      "material": "diamond",
+      "drawSpeed": 15.0,
+      "range": 6.0
+    },
+    "BOW_ANCIENT_BOW": {
+      "material": "netherite",
+      "drawSpeed": 12.0,
+      "range": 7.6
     },
     "BOW_ECHO_OF_THE_VALLEY": {
       "material": "diamond",
       "drawSpeed": 9.0,
       "range": 7.4
     },
-    "BOW_BUBBLE_BURSTER": {
+    "BOW_BURST_GALE_BOW": {
       "material": "diamond",
-      "drawSpeed": 13.0,
-      "range": 4.2
+      "drawSpeed": 10.0,
+      "range": 7.2
     },
     "BOW_VOID_BOW": {
       "material": "diamond",
@@ -568,39 +543,54 @@
       "drawSpeed": 10.0,
       "range": 4.2
     },
-    "BOW_WEB_BOW": {
+    "BOW_SHIVERING_BOW": {
       "material": "diamond",
-      "drawSpeed": 13.0,
-      "range": 5.2
+      "drawSpeed": 12.0,
+      "range": 4.0
     },
-    "BOW_HUNTERS_PROMISE": {
-      "material": "iron",
-      "drawSpeed": 13.0,
-      "range": 5.0
+    "BOW_WIND_BOW": {
+      "material": "diamond",
+      "drawSpeed": 9.0,
+      "range": 6.8
     },
     "BOW_BUBBLE_BOW": {
       "material": "iron",
       "drawSpeed": 13.0,
       "range": 4.0
     },
-    "BOW_HUNTING_BOW": {
+    "BOW_BUBBLE_BURSTER": {
+      "material": "diamond",
+      "drawSpeed": 13.0,
+      "range": 4.2
+    },
+    "BOW_HAUNTED_BOW": {
+      "material": "netherite",
+      "drawSpeed": 28.0,
+      "range": 7.0
+    },
+    "BOW_TRICKBOW": {
+      "material": "diamond",
+      "drawSpeed": 10.0,
+      "range": 4.2
+    },
+    "BOW_PHANTOM_BOW": {
+      "material": "diamond",
+      "drawSpeed": 20.0,
+      "range": 6.4
+    },
+    "BOW_WEEPING_VINE_BOW": {
       "material": "iron",
-      "drawSpeed": 14.0,
-      "range": 4.6
+      "drawSpeed": 13.0,
+      "range": 4.0
+    },
+    "BOW_HUNTERS_PROMISE": {
+      "material": "iron",
+      "drawSpeed": 13.0,
+      "range": 5.0
     }
   },
   "shortBowStats": {
-    "BOW_MECHANICAL_SHORTBOW": {
-      "material": "iron",
-      "drawSpeed": 8.0,
-      "range": 2.6
-    },
     "BOW_PURPLE_STORM": {
-      "material": "iron",
-      "drawSpeed": 8.0,
-      "range": 2.0
-    },
-    "BOW_LOVE_SPELL_BOW": {
       "material": "iron",
       "drawSpeed": 8.0,
       "range": 2.0
@@ -609,14 +599,19 @@
       "material": "iron",
       "drawSpeed": 8.0,
       "range": 2.0
+    },
+    "BOW_MECHANICAL_SHORTBOW": {
+      "material": "iron",
+      "drawSpeed": 8.0,
+      "range": 2.6
+    },
+    "BOW_LOVE_SPELL_BOW": {
+      "material": "iron",
+      "drawSpeed": 8.0,
+      "range": 2.0
     }
   },
   "longBowStats": {
-    "BOW_LONGBOW": {
-      "material": "iron",
-      "drawSpeed": 20.0,
-      "range": 7.0
-    },
     "BOW_RED_SNAKE": {
       "material": "diamond",
       "drawSpeed": 30.0,
@@ -626,60 +621,65 @@
       "material": "diamond",
       "drawSpeed": 30.0,
       "range": 6.4
+    },
+    "BOW_LONGBOW": {
+      "material": "iron",
+      "drawSpeed": 20.0,
+      "range": 7.0
     }
   },
   "crossbowStats": {
-    "CROSSBOW_AUTO_CROSSBOW": {
-      "material": "iron",
-      "drawSpeed": 28.0,
-      "range": 8.0
-    },
-    "CROSSBOW_DUAL_CROSSBOW": {
-      "material": "iron",
-      "drawSpeed": 24.0,
-      "range": 7.0
-    },
     "CROSSBOW_BUTTERFLY_CROSSBOW": {
       "material": "iron",
       "drawSpeed": 28.0,
       "range": 8.9
     },
-    "CROSSBOW_HARP_CROSSBOW": {
-      "material": "iron",
-      "drawSpeed": 28.0,
-      "range": 8.6
-    },
-    "CROSSBOW_SLAYER_CROSSBOW": {
+    "CROSSBOW_VOIDCALLER_CROSSBOW": {
       "material": "diamond",
       "drawSpeed": 26.0,
-      "range": 8.8
+      "range": 12.5
     },
-    "CROSSBOW_SHADOW_CROSSBOW": {
-      "material": "diamond",
-      "drawSpeed": 25.0,
-      "range": 12.0
-    },
-    "CROSSBOW_THE_SLICER": {
+    "CROSSBOW_RAPID_CROSSBOW": {
       "material": "iron",
-      "drawSpeed": 28.0,
-      "range": 10.2
+      "drawSpeed": 20.0,
+      "range": 8.2
+    },
+    "CROSSBOW_VEILED_CROSSBOW": {
+      "material": "diamond",
+      "drawSpeed": 22.0,
+      "range": 14.5
     },
     "CROSSBOW_SCATTER_CROSSBOW": {
       "material": "iron",
       "drawSpeed": 28.0,
       "range": 8.0
     },
-    "CROSSBOW_PRIDE_OF_THE_PIGLINS": {
-      "material": "netherite",
-      "drawSpeed": 20.0,
-      "range": 13.0
-    },
     "CROSSBOW_DOOM_CROSSBOW": {
       "material": "netherite",
       "drawSpeed": 26.0,
       "range": 8.0
     },
-    "CROSSBOW_IMPLODING_CROSSBOW": {
+    "CROSSBOW_NAUTICAL_CROSSBOW": {
+      "material": "diamond",
+      "drawSpeed": 24.0,
+      "range": 14.0
+    },
+    "CROSSBOW_AUTO_CROSSBOW": {
+      "material": "iron",
+      "drawSpeed": 28.0,
+      "range": 8.0
+    },
+    "CROSSBOW_COG_CROSSBOW": {
+      "material": "iron",
+      "drawSpeed": 28.0,
+      "range": 8.4
+    },
+    "CROSSBOW_EXPLODING_CROSSBOW": {
+      "material": "iron",
+      "drawSpeed": 28.0,
+      "range": 8.0
+    },
+    "CROSSBOW_HEAVY_CROSSBOW": {
       "material": "iron",
       "drawSpeed": 28.0,
       "range": 8.0
@@ -694,21 +694,6 @@
       "drawSpeed": 28.0,
       "range": 11.0
     },
-    "CROSSBOW_EXPLODING_CROSSBOW": {
-      "material": "iron",
-      "drawSpeed": 28.0,
-      "range": 8.0
-    },
-    "CROSSBOW_COG_CROSSBOW": {
-      "material": "iron",
-      "drawSpeed": 28.0,
-      "range": 8.4
-    },
-    "CROSSBOW_SPELLBOUND_CROSSBOW": {
-      "material": "iron",
-      "drawSpeed": 28.0,
-      "range": 8.9
-    },
     "CROSSBOW_BURST_CROSSBOW": {
       "material": "iron",
       "drawSpeed": 28.0,
@@ -719,67 +704,82 @@
       "drawSpeed": 28.0,
       "range": 8.4
     },
-    "CROSSBOW_HEAVY_CROSSBOW": {
+    "CROSSBOW_DUAL_CROSSBOW": {
       "material": "iron",
-      "drawSpeed": 28.0,
-      "range": 8.0
-    },
-    "CROSSBOW_VOIDCALLER_CROSSBOW": {
-      "material": "diamond",
-      "drawSpeed": 26.0,
-      "range": 12.5
-    },
-    "CROSSBOW_FIREBOLT_THROWER": {
-      "material": "iron",
-      "drawSpeed": 28.0,
-      "range": 7.9
-    },
-    "CROSSBOW_RAPID_CROSSBOW": {
-      "material": "iron",
-      "drawSpeed": 20.0,
-      "range": 8.2
-    },
-    "CROSSBOW_SOUL_CROSSBOW": {
-      "material": "iron",
-      "drawSpeed": 28.0,
-      "range": 8.0
-    },
-    "CROSSBOW_NAUTICAL_CROSSBOW": {
-      "material": "diamond",
       "drawSpeed": 24.0,
-      "range": 14.0
+      "range": 7.0
     },
-    "CROSSBOW_FERAL_SOUL_CROSSBOW": {
+    "CROSSBOW_THE_SLICER": {
       "material": "iron",
       "drawSpeed": 28.0,
-      "range": 9.2
-    },
-    "CROSSBOW_LIGHTNING_HARP_CROSSBOW": {
-      "material": "diamond",
-      "drawSpeed": 28.0,
-      "range": 14.2
-    },
-    "CROSSBOW_VEILED_CROSSBOW": {
-      "material": "diamond",
-      "drawSpeed": 22.0,
-      "range": 14.5
+      "range": 10.2
     },
     "CROSSBOW_BABY_CROSSBOW": {
       "material": "iron",
       "drawSpeed": 23.0,
       "range": 7.2
     },
+    "CROSSBOW_FIREBOLT_THROWER": {
+      "material": "iron",
+      "drawSpeed": 28.0,
+      "range": 7.9
+    },
+    "CROSSBOW_FERAL_SOUL_CROSSBOW": {
+      "material": "iron",
+      "drawSpeed": 28.0,
+      "range": 9.2
+    },
+    "CROSSBOW_IMPLODING_CROSSBOW": {
+      "material": "iron",
+      "drawSpeed": 28.0,
+      "range": 8.0
+    },
+    "CROSSBOW_SLAYER_CROSSBOW": {
+      "material": "diamond",
+      "drawSpeed": 26.0,
+      "range": 8.8
+    },
+    "CROSSBOW_LIGHTNING_HARP_CROSSBOW": {
+      "material": "diamond",
+      "drawSpeed": 28.0,
+      "range": 14.2
+    },
     "CROSSBOW_HARPOON_CROSSBOW": {
       "material": "iron",
       "drawSpeed": 28.0,
       "range": 11.0
+    },
+    "CROSSBOW_HARP_CROSSBOW": {
+      "material": "iron",
+      "drawSpeed": 28.0,
+      "range": 8.6
+    },
+    "CROSSBOW_SOUL_CROSSBOW": {
+      "material": "iron",
+      "drawSpeed": 28.0,
+      "range": 8.0
+    },
+    "CROSSBOW_SHADOW_CROSSBOW": {
+      "material": "diamond",
+      "drawSpeed": 25.0,
+      "range": 12.0
+    },
+    "CROSSBOW_PRIDE_OF_THE_PIGLINS": {
+      "material": "netherite",
+      "drawSpeed": 20.0,
+      "range": 13.0
+    },
+    "CROSSBOW_SPELLBOUND_CROSSBOW": {
+      "material": "iron",
+      "drawSpeed": 28.0,
+      "range": 8.9
     }
   },
   "shieldStats": {
-    "SHIELD_ROYAL_GUARD": {
+    "SHIELD_VANGUARD": {
       "material": "diamond"
     },
-    "SHIELD_VANGUARD": {
+    "SHIELD_ROYAL_GUARD": {
       "material": "diamond"
     }
   }

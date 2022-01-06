@@ -470,11 +470,6 @@
     "cloak": "crimson"
   },
   {
-    "name": "Ekolezio",
-    "uuid": "aebc7bfd-a5f1-4114-ac49-501b668d7a09",
-    "cloak": "mint"
-  },
-  {
     "name": "DominicSky",
     "uuid": "af3e429c-f7f0-46da-978e-5bbc54d07a5a",
     "cloak": "enchanted-jeb"
@@ -1613,5 +1608,20 @@
     "name": "MegaPig31",
     "uuid": "c186bf70-d187-4ac4-898f-692ed30375a8",
     "cloak": "crimson"
+  },
+  {
+    "name": "Glitterest",
+    "uuid": "aae6145f-1514-4035-8022-20ce95c8e217",
+    "cloak": "cosmic"
+  },
+  {
+    "name": "Ekolezio",
+    "uuid": "aebc7bfd-a5f1-4114-ac49-501b668d7a09",
+    "cloak": "mint"
+  },
+  {
+    "name": "GandalfTheDanke",
+    "uuid": "01ed8c37-8bab-4424-9ca6-3bc65c775477",
+    "cloak": "void"
   }
 ]
