@@ -620,6 +620,11 @@ mode = "fancy"
 			[light_sources.settings.entities.additionaladditions]
 				glow_stick = true
 
+			[light_sources.settings.entities.twm]
+				tadpole = true
+				frog = true
+				warden = true
+
 			[light_sources.settings.entities.hookshot]
 				hookshot = true
 
