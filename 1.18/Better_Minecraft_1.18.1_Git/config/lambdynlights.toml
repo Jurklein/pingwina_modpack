@@ -627,6 +627,7 @@ mode = "fancy"
 				rainbow_creeper = true
 				hydrogen_creeper = true
 				illusion_creeper = true
+				cookie_creeper = true
 				earth_creeper = true
 				reverse_creeper = true
 				firework_creeper = true
