@@ -1095,11 +1095,6 @@
     "cloak": "cosmic"
   },
   {
-    "name": "Eduardosq",
-    "uuid": "ff71f865-3cfd-4076-bf56-71eb5a4a0114",
-    "cloak": "gay"
-  },
-  {
     "name": "Oznomaly",
     "uuid": "07e92b5b-d9b5-4646-bee5-179844b9f521",
     "cloak": "void"
@@ -1153,11 +1148,6 @@
     "name": "DaveFalcon",
     "uuid": "67e1b903-b556-479a-b75f-f279de75b310",
     "cloak": "void"
-  },
-  {
-    "name": "Haikis",
-    "uuid": "bf22cca4-60b6-4ab2-8c4d-fb38175d2697",
-    "cloak": "jeb"
   },
   {
     "name": "kipzxz",
@@ -1628,5 +1618,40 @@
     "name": "Meganodark",
     "uuid": "5d9c7410-06ac-4bfb-aa48-c567c004a1d7",
     "cloak": "void"
+  },
+  {
+    "name": "Eduardosq",
+    "uuid": "ff71f865-3cfd-4076-bf56-71eb5a4a0114",
+    "cloak": "enchanted-jeb"
+  },
+  {
+    "name": "ErasedTruth",
+    "uuid": "b644985c-8e73-4983-9773-84a90f6dbadc",
+    "cloak": "mystic"
+  },
+  {
+    "name": "Haikis",
+    "uuid": "bf22cca4-60b6-4ab2-8c4d-fb38175d2697",
+    "cloak": "jeb"
+  },
+  {
+    "name": "dtdx",
+    "uuid": "bf7b953f-6365-4e6c-baa9-d7468ad72347",
+    "cloak": "enchanted-jeb"
+  },
+  {
+    "name": "Posuwa",
+    "uuid": "c7225750-f885-4eb0-bbec-fac69b1bace0",
+    "cloak": "trans"
+  },
+  {
+    "name": "PeachMimosa",
+    "uuid": "b4b0a9e8-c151-4c55-b177-11805147fd19",
+    "cloak": "cosmic"
+  },
+  {
+    "name": "arid",
+    "uuid": "e1dc50f5-45ae-4d5a-a02f-2fe6ea383fd8",
+    "cloak": "lapis"
   }
 ]

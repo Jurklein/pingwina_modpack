@@ -10,6 +10,10 @@
 		"HEATSLOW": true,
 		// Do players get sped up in cold environments? (60% infection by default)
 		"COLDFAST": true,
+		// Enables or disables water breathing for players at 67%
+		"WATERBREATHING": true,
+		// Enables or disables conduit power for players at 67%, in cold biomes, while also in the water.
+		"COLDCONDUITPOWER": true,
 		// Are players weakened in all but the coldest environments? (80% infection by default)
 		"WARMWEAKNESS": true,
 		// Are players strengthend in cold environments? (80% infection by default)
@@ -46,6 +50,8 @@
 		"PLAYERINFECTIONTHRESHOLD": 50,
 		// Changes when the speed/slowdown side effects occurs
 		"EFFECTSPEED": 60,
+		// Changes when the water breathing side effects occurs
+		"EFFECTWATERBREATH": 67,
 		// Changes when the strength/weakness side effects occurs
 		"EFFECTSTRENGTH": 85,
 		// Changes when the blindness side effect will occur
@@ -85,7 +91,9 @@
 		// How long it takes to increase 1% in infection level in ticks (20 per second assuming no lag)
 		"INFECTIONTIMER": 450,
 		// An alternative to blocking out chat entirely when infected. Will turn a player's chat to gibberish instead
-		"FORMATTEDINFECTCHAT": false
+		"FORMATTEDINFECTCHAT": false,
+		// Enables a chance for the infection to turn a victim into an infected variant regardless of the reason of death, outside of extreme cases such as explosions.
+		"INFECTIONDEATH": true
 	},
 	"dimensionsAndSpawnDetails": {
 		// The spawn weight of infected villagers. Higher is more frequent

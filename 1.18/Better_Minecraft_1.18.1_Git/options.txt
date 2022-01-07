@@ -11,9 +11,9 @@ discrete_mouse_scroll:false
 invertYMouse:false
 realmsNotifications:true
 reducedDebugInfo:false
-showSubtitles:false
+showSubtitles:true
 touchscreen:false
-fullscreen:false
+fullscreen:true
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -36,7 +36,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","Fabric Mods","fabric-copper-golem/copper_golem","loadmyresources.hiddenpack","file/French_Fonts_8__1.17.1-1.18","file/MedievalMusic","file/MedievalMusic2","file/STONEBORN+-+1.18+-+V3.0","file/EmbellishedStone-1.17.1","file/1.18+STONEBORN+-+Appleskin+Compat","file/Better-Leaves-6.1-1.13+","file/STONEBORN+Gear-LOW_EYES-1.18+-+V2.0","file/Broken_Tools_V2_1.18"]
+resourcePacks:["vanilla","Fabric Mods","fabric-copper-golem/copper_golem","loadmyresources.hiddenpack","file/French_Fonts_8__1.17.1-1.18","file/MedievalMusic2","file/MedievalMusic","file/STONEBORN+-+1.18+-+V3.0","file/EmbellishedStone-1.17.1","file/1.18+STONEBORN+-+Appleskin+Compat","file/Better-Leaves-6.1-1.13+","file/STONEBORN+Gear-LOW_EYES-1.18+-+V2.0","file/Broken_Tools_V2_1.18"]
 incompatibleResourcePacks:["file/French_Fonts_8__1.17.1-1.18","file/EmbellishedStone-1.17.1","file/STONEBORN+Gear-LOW_EYES-1.18+-+V2.0"]
 lastServer:
 lang:en_us
@@ -132,6 +132,7 @@ key_key.areyoublind.rftl:key.keyboard.keypad.subtract
 key_key.areyoublind.openconfig:key.keyboard.k
 key_key.besmirchment.familiar_ability:key.keyboard.k
 key_key.bewitchment.transformation_ability:key.keyboard.r
+key_carrier.key:key.keyboard.unknown
 key_key.chestcavity.utility_abilities:key.keyboard.v
 key_key.chestcavity.attack_abilities:key.keyboard.r
 key_key.chestcavity.creepy:key.keyboard.keypad.decimal
@@ -179,6 +180,8 @@ key_nimble.keybind.frontView:key.keyboard.f4
 key_key.origins.primary_active:key.keyboard.g
 key_key.origins.secondary_active:key.keyboard.unknown
 key_key.origins.view_origin:key.keyboard.o
+key_presencefootsteps.settings.key:key.keyboard.f10
+key_key.projectsavethepets.allowdamage:key.keyboard.left.shift
 key_key.things.place_item:key.keyboard.j
 key_key.things.openenderchest:key.keyboard.g
 key_key.waila.config:key.keyboard.keypad.0
@@ -192,13 +195,13 @@ key_gui.xaero_map_zoom_in:key.keyboard.unknown
 key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.right.shift
 key_key.zoomglass.spyglass:key.keyboard.c
-soundCategory_master:1.0
-soundCategory_music:0.014084507
+soundCategory_master:0.2
+soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
 soundCategory_hostile:1.0
-soundCategory_neutral:1.0
+soundCategory_neutral:0.60211265
 soundCategory_player:1.0
 soundCategory_ambient:1.0
 soundCategory_voice:1.0

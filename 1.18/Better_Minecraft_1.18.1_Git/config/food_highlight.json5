@@ -1,0 +1,6 @@
+//Hit F3 + M to edit configs client side in game
+{
+  "full_color": "#4d2ab320",
+  "partial_color": "#4dbdb109",
+  "render_partial_color": true
+}
