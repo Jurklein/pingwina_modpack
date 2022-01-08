@@ -70,11 +70,6 @@
     "cloak": "golden"
   },
   {
-    "name": "LJC_100",
-    "uuid": "7fc03234-006a-47db-8f6b-552f2c2c9c4a",
-    "cloak": "void"
-  },
-  {
     "name": "cordie_",
     "uuid": "98befb97-0ef7-46ad-91ca-57ca0e882ff2",
     "cloak": "military"
@@ -1653,5 +1648,10 @@
     "name": "arid",
     "uuid": "e1dc50f5-45ae-4d5a-a02f-2fe6ea383fd8",
     "cloak": "lapis"
+  },
+  {
+    "name": "Monkeygogobeans",
+    "uuid": "80304cae-bee0-4123-8eaf-62e731808b78",
+    "cloak": "cosmic"
   }
 ]

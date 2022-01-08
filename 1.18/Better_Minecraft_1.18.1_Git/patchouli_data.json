@@ -1,5 +1,5 @@
 {
-  "bookGuiScale": 0,
+  "bookGuiScale": 3,
   "clickedVisualize": false,
   "bookData": {
     "bewitchment:book_of_shadows": {
@@ -33,6 +33,22 @@
       "bookmarks": [],
       "history": [
         "croptopia:ingredients/salt"
+      ],
+      "completedManualQuests": []
+    },
+    "magicfungi:magicfungi": {
+      "viewedEntries": [
+        "magicfungi:general_info/fungi_types",
+        "magicfungi:glyph_category/glyph_start",
+        "magicfungi:glyph_category/utilis_glyphs",
+        "magicfungi:glyph_category/vivifica_glyphs"
+      ],
+      "bookmarks": [],
+      "history": [
+        "magicfungi:glyph_category/vivifica_glyphs",
+        "magicfungi:glyph_category/utilis_glyphs",
+        "magicfungi:glyph_category/glyph_start",
+        "magicfungi:general_info/fungi_types"
       ],
       "completedManualQuests": []
     }
