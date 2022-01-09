@@ -1,7 +1,10 @@
 {
 	"herd_panic": true,
 	// Animals will seek shelter when it is raining
-	"shelter_seeking": false,
+	"shelter_seeking": true,
 	// List will exclude entities from panicing and sheltering - modid:mobname
-	"excluded_entities": []
+	"excluded_entities": [],
+	// in ticks
+	"panic_time": 200,
+	"panic_distance": 32.0
 }

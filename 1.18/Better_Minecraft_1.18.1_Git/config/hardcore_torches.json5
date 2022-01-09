@@ -10,7 +10,7 @@
 	// Burnt torches drop as vanilla stick when broken instead of a burnt torch. default true
 	"burntStick": false,
 	// The amount of ticks the torch lasts. Default is 48000. 20 ticks per second, 48000 = 20 minutes
-	"defaultTorchFuel": 1200,
+	"defaultTorchFuel": 48000,
 	// The amount of ticks the lantern can last. Default is 144000. 20 ticks per second, 144000 = 60 minutes
 	"defaultLanternFuel": 144000,
 	// The amount a fuel item adds to the lantern by default. default 72000
@@ -26,5 +26,13 @@
 	// How many torches are crafted. default 4
 	"craftAmount": 4,
 	// Right click torch or lantern to see fuel value. default false
-	"fuelMessage": true
+	"fuelMessage": true,
+	// Max fuel an oil can holds. default 576000
+	"maxCanFuel": 576000,
+	// Do lanterns have to be filled using an oil can. default true
+	"lanternsNeedCan": true,
+	// Can you refuel a torch using an oil can. default false
+	"torchesUseCan": false,
+	// Multiplies the fuel value of all oil can recipes. 0.5 makes all fuel recipes return half as much fuel. default 1
+	"oilRecipeMultiplier": 1
 }

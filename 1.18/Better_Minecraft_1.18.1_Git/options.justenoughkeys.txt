@@ -39,10 +39,10 @@ modifiers.key.bettercontrols.toggle_forward:
 modifiers.key.bettercontrols.toggle_jump:
 modifiers.key.bettercontrols.reset_all_toggles:
 modifiers.key.bettercontrols.open_menu:
-modifiers.Toggle Drippy Customization Overlay | CTRL + ALT + :key.keyboard.left.control,key.keyboard.left.alt
+modifiers.Toggle Drippy Customization Overlay | CTRL + ALT + :
 modifiers.key.dynamicfps.toggle_forced:
 modifiers.key.dynamicfps.toggle_disabled:
-modifiers.Reload Menu | CTRL + ALT + :key.keyboard.left.control,key.keyboard.left.alt
+modifiers.Reload Menu | CTRL + ALT + :
 modifiers.Toggle Customization Overlay | CTRL + ALT + :
 modifiers.key.firstperson.toggle:
 modifiers.key.advancedcompass.openconfig:key.keyboard.left.shift,key.keyboard.left.control,key.keyboard.left.alt
@@ -51,6 +51,7 @@ modifiers.key.advancedcompass.openwaypointlist:key.keyboard.left.shift,key.keybo
 modifiers.key.adventurez.activatearmor:key.keyboard.left.shift,key.keyboard.left.control
 modifiers.key.adventurez.dragonflydown:
 modifiers.key.adventurez.dragonfirebreath:
+modifiers.key.agape_space.vehicle_menu:key.keyboard.right.alt
 modifiers.key.areyoublind.toggleonoff:key.keyboard.left.control
 modifiers.key.areyoublind.attl:key.keyboard.left.control
 modifiers.key.areyoublind.rftl:key.keyboard.left.control

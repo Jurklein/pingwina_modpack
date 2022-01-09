@@ -1,30 +1,30 @@
 {
 	// in Blocks
-	"increasingDistance": 300,
+	"increasingDistance": 100,
 	// 0.1 = 10%
-	"distanceFactor": 0.1,
+	"distanceFactor": 0.05,
 	// in minutes
-	"increasingTime": 30,
+	"increasingTime": 10,
 	// 0.1 = 10%
-	"timeFactor": 0.1,
+	"timeFactor": 0.05,
 	// in Blocks
 	"heightDistance": 30,
 	// 0.1 = 10%
 	"heightFactor": 0.1,
 	// 2.0 = 200% = double
-	"maxFactorHealth": 2.0,
-	"maxFactorDamage": 2.0,
-	"maxFactorProtection": 1.5,
+	"maxFactorHealth": 3.0,
+	"maxFactorDamage": 3.0,
+	"maxFactorProtection": 2.5,
 	// Applies only to special zombie
-	"maxFactorSpeed": 2.0,
-	"allowRandomValues": false,
+	"maxFactorSpeed": 3.0,
+	"allowRandomValues": true,
 	// in %
 	"randomChance": 10,
 	// in %
 	"randomFactor": 10,
 	// Based on other settings
 	"extraXp": true,
-	"maxXPFactor": 2.0,
+	"maxXPFactor": 3.0,
 	"startingFactor": 1.0,
 	// in Blocks
 	"startingDistance": 0,
@@ -61,8 +61,8 @@
 	// 0.2 = 20% per player
 	"dynamicBossModificator": 0.3,
 	"bossMaxFactor": 3.0,
-	"bossDistanceFactor": 0.0,
-	"bossTimeFactor": 0.1,
+	"bossDistanceFactor": 1.5,
+	"bossTimeFactor": 1.5,
 	// Additional factor to prevent extrem explosions
-	"creeperExplosionFactor": 1.0
+	"creeperExplosionFactor": 1.5
 }
