@@ -1,0 +1,16 @@
+{
+    "name": "The Campfire!",
+    "icon": "minecraft:campfire",
+    "category": "patchouli:c_your_best_friend",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "The Campfire is your Bestie!",
+            "text": "Stop everything and start looking for one. If you can't find it, craft it IMMEDIATELY! Why, you ask? $(br)It will:$(li)Protect you from freezing to death$(li)Enable the 'save game' option$(li)Cook food$(li)Heal you$(li)Purify water$(li)Scare off monsters$(br)... and more!"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "minecraft:campfire"
+        }
+    ]
+}

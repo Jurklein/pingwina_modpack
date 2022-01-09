@@ -1,0 +1,20 @@
+{
+    "name": "The Cauldron!",
+    "icon": "dehydration:campfire_cauldron",
+    "category": "patchouli:c_your_best_friend",
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "title": "Use it with a Cauldron",
+            "text": "If you don't pay attention to this entry, you'll soon notice that the water you drink doesn't kill your thirst. And that's because you are drinking salty water or dirty water! To solve this, craft the CAULDRON, and place it on top of your campfire with Right Click."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "dehydration:campfire_cauldron"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "You can fetch water from your surroundings using a bucket, an empty bottle or another fluid container, and fill the cauldron with Right Click. Wait for a while and you'll get your so precious purified water!$(br)Oh, and don't forget to light up the Campfire..."
+        }
+    ]
+}

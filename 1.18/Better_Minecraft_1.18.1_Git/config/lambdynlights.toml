@@ -349,6 +349,7 @@ mode = "fancy"
 				infectedvillager = true
 				infectedig = true
 				infectedhuman = true
+				infecteddiver = true
 
 			[light_sources.settings.entities.companion_bats]
 				dynamite = true
@@ -359,6 +360,7 @@ mode = "fancy"
 				werewolf = true
 				raven = true
 				owl = true
+				vampire = true
 				snake = true
 				hellhound = true
 
@@ -421,6 +423,19 @@ mode = "fancy"
 				gauntlet = true
 				soul_star = true
 				void_blossom = true
+
+			[light_sources.settings.entities.terrarianslimes]
+				black_slime = true
+				green_slime = true
+				red_slime = true
+				pinky = true
+				yellow_slime = true
+				ice_slime = true
+				mother_slime = true
+				blue_slime = true
+				lava_slime = true
+				spiked_ice_slime = true
+				purple_slime = true
 
 			[light_sources.settings.entities.eeriehauntings]
 				soulballprojectile = true
@@ -502,6 +517,7 @@ mode = "fancy"
 				moobloom = true
 
 			[light_sources.settings.entities.tinyskeletons]
+				baby_stray = true
 				baby_skeleton = true
 
 			[light_sources.settings.entities.minecraft]

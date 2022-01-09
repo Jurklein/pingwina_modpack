@@ -37,12 +37,12 @@
   //This only affects the default gamerule value for this setting.
   //To change this on already generated worlds, use /gamerule doMorbusSpread.
   //Keep in mind this can be overridden by Morbus corruption items. Check canUseMorbusCorruptionItems for further information.
-  "doMorbusSpread": false,
+  "doMorbusSpread": true,
   //In-game days until Host Grass blocks start spreading beyond the Host Biome.
   //This only affects the default gamerule value for this setting.
   //To change this on already generated worlds, use /gamerule morbusSpreadStartingDay
-  "morbusSpreadStartingDay": 100,
+  "morbusSpreadStartingDay": 2,
   //Enables the usage of the Maledictio Glyph and Heart of Morbus.
   //If you plan to use this mod on a public server, disable this to avoid griefing.
-  "canUseMorbusCorruptionItems": false
+  "canUseMorbusCorruptionItems": true
 }

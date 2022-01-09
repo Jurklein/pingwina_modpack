@@ -41,14 +41,58 @@
         "magicfungi:general_info/fungi_types",
         "magicfungi:glyph_category/glyph_start",
         "magicfungi:glyph_category/utilis_glyphs",
-        "magicfungi:glyph_category/vivifica_glyphs"
+        "magicfungi:glyph_category/vivifica_glyphs",
+        "magicfungi:general_info/fungi_fertilizer",
+        "magicfungi:spell_category/spell_start",
+        "magicfungi:general_info/mushroom_stews",
+        "magicfungi:morbus_category/host_biome",
+        "magicfungi:relic_category/clypeus_shield",
+        "magicfungi:spell_category/utilis_spells",
+        "magicfungi:relic_category/vivifica_elixir",
+        "magicfungi:spell_category/vivifica_spells",
+        "magicfungi:spell_category/clypeus_spells",
+        "magicfungi:morbus_category/morbus_spreading",
+        "magicfungi:relic_category/morbus_scythe",
+        "magicfungi:morbus_category/morbus_glyphs",
+        "magicfungi:relic_category/impetus_sword",
+        "magicfungi:relic_category/magical_fungi_armor",
+        "magicfungi:spell_category/impetus_spells",
+        "magicfungi:relic_category/utilis_pickaxe"
       ],
       "bookmarks": [],
       "history": [
+        "magicfungi:general_info/fungi_fertilizer",
+        "magicfungi:relic_category/utilis_pickaxe",
         "magicfungi:glyph_category/vivifica_glyphs",
         "magicfungi:glyph_category/utilis_glyphs",
         "magicfungi:glyph_category/glyph_start",
         "magicfungi:general_info/fungi_types"
+      ],
+      "completedManualQuests": []
+    },
+    "agape_space:space_guide": {
+      "viewedEntries": [],
+      "bookmarks": [],
+      "history": [],
+      "completedManualQuests": []
+    },
+    "betternether:betternether_book": {
+      "viewedEntries": [],
+      "bookmarks": [],
+      "history": [],
+      "completedManualQuests": []
+    },
+    "patchouli:anonymous": {
+      "viewedEntries": [
+        "patchouli:test/test_entry",
+        "patchouli:test/the_campfire",
+        "patchouli:test/the_cauldron"
+      ],
+      "bookmarks": [],
+      "history": [
+        "patchouli:test/the_campfire",
+        "patchouli:test/the_cauldron",
+        "patchouli:test/test_entry"
       ],
       "completedManualQuests": []
     }
