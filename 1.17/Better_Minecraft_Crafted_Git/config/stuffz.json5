@@ -1,6 +1,0 @@
-{
-	"generate_bushes": true,
-	"generate_geysers": true,
-	// Disabling ore generating needs a restart
-	"generate_ores": true
-}
