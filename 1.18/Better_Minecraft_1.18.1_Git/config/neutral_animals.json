@@ -3,5 +3,6 @@
   "cowsAreNeutral": true,
   "pigsAreNeutral": true,
   "rabbitsAreNeutral": true,
-  "sheepAreNeutral": true
+  "sheepAreNeutral": true,
+  "villagersAreNeutral": true
 }

@@ -330,6 +330,17 @@
         "value": 10000000
       }
     },
+    "salem:enlarge": {
+      "enabled": false,
+      "min": {
+        "default": 0.1,
+        "value": 0.1
+      },
+      "max": {
+        "default": 1024,
+        "value": 10000000
+      }
+    },
     "dml-refabricated:unrotten_flesh": {
       "enabled": false,
       "min": {

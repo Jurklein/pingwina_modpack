@@ -4,13 +4,13 @@
   "generateSticks": true,
   "harderGroundBlocks": true,
   "crafting": {
-    "enableWoodenTools": false,
+    "enableWoodenTools": true,
     "enableStoneTools": false,
     "enablePlanksAndSticks": false
   },
-  "damageProbability": 2.5,
+  "damageProbability": 10.0,
   "flintConsumeProb": 0.3,
   "flintSuccessProb": 0.7,
   "woodChoppingProb": 0.5,
-  "fireStartProb": 0.3
+  "fireStartProb": 0.05
 }
