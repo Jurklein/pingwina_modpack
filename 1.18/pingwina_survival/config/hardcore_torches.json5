@@ -34,5 +34,9 @@
 	// Can you refuel a torch using an oil can. default false
 	"torchesUseCan": false,
 	// Multiplies the fuel value of all oil can recipes. 0.5 makes all fuel recipes return half as much fuel. default 1
-	"oilRecipeMultiplier": 1
+	"oilRecipeMultiplier": 1,
+	// If true, you can craft animal fat with an oil can to fill it. You can also add custom fill recipes with a datapack, open the mod jar to see the JSON format. default true
+	"enableFatOil": true,
+	// If true, you can craft coal with an oil can to fill it. You can also add custom fill recipes with a datapack, open the mod jar to see the JSON format. default false
+	"enableCoalOil": false
 }

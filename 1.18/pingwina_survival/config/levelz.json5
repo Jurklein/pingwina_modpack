@@ -1,7 +1,9 @@
 {
 	"maxLevel": 20,
 	// Applies if bonus chest world setting is enabled
-	"startPoints": 5,
+	"startPoints": 2,
+	// Enables starter points for SERVER only
+	"enableStartPoints": false,
 	// If true will reset stats on death
 	"hardMode": false,
 	"resetCurrentXP": true,

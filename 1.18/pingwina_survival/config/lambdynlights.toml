@@ -859,3 +859,7 @@ mode = "fancy"
 				cultivated_shulker = false
 				eye_of_ender_arrow = true
 
+			[light_sources.settings.entities.biomemakeover]
+				toad = false
+				decayed = false
+
