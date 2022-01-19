@@ -469,6 +469,7 @@ mode = "fancy"
 				purple_slime = true
 				sand_slime = true
 				baby_slime = true
+				spike = true
 
 			[light_sources.settings.entities.eeriehauntings]
 				soulballprojectile = true

@@ -1698,5 +1698,15 @@
     "name": "_Volv",
     "uuid": "87686f48-c3cc-41fc-b757-16637d69bd1b",
     "cloak": "trans"
+  },
+  {
+    "name": "Leeko",
+    "uuid": "4f4a00a5-4b59-4267-a6ac-829e09fea408",
+    "cloak": "uni"
+  },
+  {
+    "name": "Leekos",
+    "uuid": "5f099141-9cbe-41c4-9c71-f80c1d29a3de",
+    "cloak": "uni"
   }
 ]
