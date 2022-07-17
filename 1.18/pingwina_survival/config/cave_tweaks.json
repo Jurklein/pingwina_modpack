@@ -6,6 +6,40 @@
       "enable_cheese": true,
       "enable_big_entrance": true
     },
+    "Cave Modifiers": {
+      "cheese_limiter": 0.27,
+      "cheese_scale": 1.0,
+      "cheese_y_stretch": 1.0,
+      "entrance_limiter": 0.37,
+      "spaghetti_3d_min_thickness": 0.065,
+      "spaghetti_3d_max_thickness": 0.088,
+      "spaghetti_3d_scale": 1.0
+    },
+    "Aquifers": {
+      "aquifer_bias": 0.1,
+      "aquifer_xz_scale": 1.0,
+      "aquifer_y_scale": 0.8,
+      "aquifer_type1_min": -0.3,
+      "aquifer_type1_max": 0.8,
+      "aquifer_type2_min": -0.8,
+      "aquifer_type2_max": 0.225
+    },
+    "Cave Biomes": {
+      "min_depth": 16,
+      "height_variation_factor": 1.0,
+      "Humidity (Lush Caves)": {
+        "height_variation_factor": 1.45,
+        "bias": 0.125,
+        "bias_compensator": 0.35,
+        "bias_end_depth": 64
+      },
+      "Temperature": {
+        "height_variation_factor": 4.0,
+        "bias": 0.0,
+        "bias_compensator": 0.0,
+        "bias_end_depth": 64
+      }
+    },
     "Cave Entrances": {
       "bonus_factor": 0.105,
       "limiting_factor": 0.3325,
