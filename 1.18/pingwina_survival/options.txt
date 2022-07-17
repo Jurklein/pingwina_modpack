@@ -36,8 +36,8 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","Fabric Mods","fabric-copper-golem/copper_golem","loadmyresources.hiddenpack","file/French_Fonts_8__1.17.1-1.18","file/MedievalMusic2","file/MedievalMusic","file/STONEBORN+-+1.18+-+V3.0","file/EmbellishedStone-1.17.1","file/1.18+STONEBORN+-+Appleskin+Compat","file/Better-Leaves-6.1-1.13+","file/STONEBORN+Gear-LOW_EYES-1.18+-+V2.0","file/Broken_Tools_V2_1.18","file/Round-Trees-5.1-1.16.2+"]
-incompatibleResourcePacks:["file/French_Fonts_8__1.17.1-1.18","file/EmbellishedStone-1.17.1","file/STONEBORN+Gear-LOW_EYES-1.18+-+V2.0"]
+resourcePacks:["vanilla","Fabric Mods","fabric-copper-golem/copper_golem","loadmyresources.hiddenpack","file/STONEBORN+Gear-LOW_EYES-1.18+-+V2.1.zip","file/STONEBORN+-+1.18+-+V3.1.zip","file/Round-Trees-6.0-1.13+.zip","file/EmbellishedStone-1.18-1.0.0.zip","file/Better+leaves+bush+1.18.zip","file/MedievalMusic.zip","file/MedievalMusic2.zip"]
+incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
 soundDevice:
